@@ -1,0 +1,27 @@
+{
+  "generation_timestamp": "20251203_105914",
+  "model": "gpt-4o",
+  "total_entries": 450,
+  "unique_questions": 50,
+  "miu_levels": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "difficulty_range": {
+    "min": 1.0,
+    "max": 5.0
+  },
+  "statistics": {
+    "total_requests": 457,
+    "successful": 450,
+    "failed": 0,
+    "retries": 7
+  }
+}

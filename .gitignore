@@ -237,4 +237,8 @@ coverage.xml
 # Database files
 *.db
 *.sqlite
+
+# Test output directories
+test_results/
+test_omnimath_results/
 *.sqlite3

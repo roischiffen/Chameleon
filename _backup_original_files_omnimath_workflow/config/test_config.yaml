@@ -1,0 +1,39 @@
+# Test Configuration for Chameleon Framework Verification
+# Using GSM8K benchmark with minimal settings for testing
+
+settings:
+  # Test mode settings
+  test_mode: true
+  num_questions: 5  # Small number for testing
+  
+  # Distortion settings
+  distortions_per_question: 1  # One distortion per μ level (for testing)
+  
+  # OpenAI settings
+  openai_model_distortion: "gpt-4o-mini"  # Model for generating distortions
+  openai_model_evaluation: "gpt-4o-mini"  # Model for answering questions
+  
+  # Output directory
+  output_directory: "test_results"
+
+# GSM8K benchmark configuration
+benchmark:
+  name: "gsm8k"
+  dataset_source: "openai/gsm8k"  # HuggingFace dataset name
+  split: "test"  # Use test split
+  
+# Distortion levels to test (μ values)
+# 0.0 = baseline (no distortion)
+# 0.5 = medium distortion
+# 0.9 = heavy distortion
+miu_levels:
+  - 0.0
+  - 0.5
+  - 0.9
+
+# μ to temperature mapping (used for distortion intensity)
+temperature_mapping:
+  0.0: 0.1   # No distortion - just copy original
+  0.5: 0.9   # Medium creativity
+  0.9: 1.5   # High creativity/paraphrasing
+

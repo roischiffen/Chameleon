@@ -1,0 +1,35 @@
+{
+  "model": "mistral-large-latest",
+  "difficulty": 1.5,
+  "total_questions": 400,
+  "correct": 172,
+  "accuracy": 43.0,
+  "empty_answers": 0,
+  "by_miu": {
+    "0.2": {
+      "correct": 46,
+      "total": 100,
+      "accuracy": 46.0,
+      "empty": 0
+    },
+    "0.5": {
+      "correct": 44,
+      "total": 100,
+      "accuracy": 44.0,
+      "empty": 0
+    },
+    "0.7": {
+      "correct": 45,
+      "total": 100,
+      "accuracy": 45.0,
+      "empty": 0
+    },
+    "0.9": {
+      "correct": 37,
+      "total": 100,
+      "accuracy": 37.0,
+      "empty": 0
+    }
+  },
+  "verified_at": "2025-12-14T09:56:28.543715"
+}

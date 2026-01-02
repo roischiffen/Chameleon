@@ -1,0 +1,1153 @@
+[
+  {
+    "question_id": 2360,
+    "original_question": "In triangle $BCD$, $\\angle CBD=\\angle CDB$ because $BC=CD$. If $\\angle BCD=80+50+30=160$, find $\\angle CBD=\\angle CDB$.",
+    "correct_answer": "10",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Angles",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Angles"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2662,
+    "original_question": "What is the $y$-intercept of the line $y = x + 4$ after it is translated down 6 units?",
+    "correct_answer": "-2",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Linear Algebra -> Linear Transformations",
+    "subject": [
+      "Mathematics -> Algebra -> Linear Algebra -> Linear Transformations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2663,
+    "original_question": "If $(pq)(qr)(rp) = 16$, what is a possible value for $pqr$?",
+    "correct_answer": "4",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2666,
+    "original_question": "What is the value of \\((-1)^{3}+(-1)^{2}+(-1)\\)?",
+    "correct_answer": "-1",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2668,
+    "original_question": "What is the value of $x$ if the three numbers $2, x$, and 10 have an average of $x$?",
+    "correct_answer": "6",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2669,
+    "original_question": "The three numbers $5, a, b$ have an average (mean) of 33. What is the average of $a$ and $b$?",
+    "correct_answer": "47",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2670,
+    "original_question": "If $x=2018$, what is the value of the expression $x^{2}+2x-x(x+1)$?",
+    "correct_answer": "2018",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2671,
+    "original_question": "If \\( \\sqrt{100-x}=9 \\), what is the value of \\( x \\)?",
+    "correct_answer": "19",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2683,
+    "original_question": "If $a(x+b)=3 x+12$ for all values of $x$, what is the value of $a+b$?",
+    "correct_answer": "7",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2689,
+    "original_question": "A class of 30 students was asked what they did on their winter holiday. 20 students said that they went skating. 9 students said that they went skiing. Exactly 5 students said that they went skating and went skiing. How many students did not go skating and did not go skiing?",
+    "correct_answer": "6",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2692,
+    "original_question": "The Cayley Corner Store sells three types of toys: Exes, Wyes and Zeds. All Exes are identical, all Wyes are identical, and all Zeds are identical. The mass of 2 Exes equals the mass of 29 Wyes. The mass of 1 Zed equals the mass of 16 Exes. The mass of 1 Zed equals the mass of how many Wyes?",
+    "correct_answer": "232",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2693,
+    "original_question": "Square $P Q R S$ has an area of 900. $M$ is the midpoint of $P Q$ and $N$ is the midpoint of $P S$. What is the area of triangle $P M N$?",
+    "correct_answer": "112.5",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Triangulations",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Triangulations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2696,
+    "original_question": "If \\( x=2 \\) and \\( v=3x \\), what is the value of \\((2v-5)-(2x-5)\\)?",
+    "correct_answer": "8",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2698,
+    "original_question": "A rectangle has a length of $\\frac{3}{5}$ and an area of $\\frac{1}{3}$. What is the width of the rectangle?",
+    "correct_answer": "\\\\frac{5}{9}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions",
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2699,
+    "original_question": "What is the value of the expression $\\frac{20+16 \\times 20}{20 \\times 16}$?",
+    "correct_answer": "\\frac{17}{16}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2706,
+    "original_question": "The line with equation $y = 3x + 5$ is translated 2 units to the right. What is the equation of the resulting line?",
+    "correct_answer": "y = 3x - 1",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Algebra -> Algebraic Expressions",
+    "subject": [
+      "Mathematics -> Algebra -> Algebra -> Algebraic Expressions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2708,
+    "original_question": "Calculate the value of $\\frac{2 \\times 3 + 4}{2 + 3}$.",
+    "correct_answer": "2",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2709,
+    "original_question": "The mean (average) of 5 consecutive integers is 9. What is the smallest of these 5 integers?",
+    "correct_answer": "7",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2716,
+    "original_question": "A rectangle has width $x$ and length $y$. The rectangle is cut along the horizontal and vertical dotted lines to produce four smaller rectangles. The sum of the perimeters of these four rectangles is 24. What is the value of $x+y$?",
+    "correct_answer": "6",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Polygons",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Polygons"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2720,
+    "original_question": "Two standard six-sided dice are rolled. What is the probability that the product of the two numbers rolled is 12?",
+    "correct_answer": "\\frac{4}{36}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Other",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2722,
+    "original_question": "There are 400 students at Pascal H.S., where the ratio of boys to girls is $3: 2$. There are 600 students at Fermat C.I., where the ratio of boys to girls is $2: 3$. What is the ratio of boys to girls when considering all students from both schools?",
+    "correct_answer": "12:13",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems",
+      "Mathematics -> Algebra -> Prealgebra -> Ratios -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2724,
+    "original_question": "John ate a total of 120 peanuts over four consecutive nights. Each night he ate 6 more peanuts than the night before. How many peanuts did he eat on the fourth night?",
+    "correct_answer": "39",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2730,
+    "original_question": "If $\\frac{1}{6} + \\frac{1}{3} = \\frac{1}{x}$, what is the value of $x$?",
+    "correct_answer": "2",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2736,
+    "original_question": "If $3n=9+9+9$, what is the value of $n$?",
+    "correct_answer": "9",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2737,
+    "original_question": "Arturo has an equal number of $\\$5$ bills, of $\\$10$ bills, and of $\\$20$ bills. The total value of these bills is $\\$700$. How many $\\$5$ bills does Arturo have?",
+    "correct_answer": "20",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2739,
+    "original_question": "The volume of a prism is equal to the area of its base times its depth. If the prism has identical bases with area $400 \\mathrm{~cm}^{2}$ and depth 8 cm, what is its volume?",
+    "correct_answer": "3200 \\mathrm{~cm}^{3}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Solid Geometry -> Volume",
+    "subject": [
+      "Mathematics -> Geometry -> Solid Geometry -> Volume"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2754,
+    "original_question": "A 6 m by 8 m rectangular field has a fence around it. There is a post at each of the four corners of the field. Starting at each corner, there is a post every 2 m along each side of the fence. How many posts are there?",
+    "correct_answer": "14",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2757,
+    "original_question": "In a cafeteria line, the number of people ahead of Kaukab is equal to two times the number of people behind her. There are $n$ people in the line. What is a possible value of $n$?",
+    "correct_answer": "25",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2761,
+    "original_question": "A rectangular field has a length of 20 metres and a width of 5 metres. If its length is increased by 10 m, by how many square metres will its area be increased?",
+    "correct_answer": "50",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Area",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2767,
+    "original_question": "The average of 1, 3, and \\( x \\) is 3. What is the value of \\( x \\)?",
+    "correct_answer": "5",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2778,
+    "original_question": "A robotic grasshopper jumps 1 cm to the east, then 2 cm to the north, then 3 cm to the west, then 4 cm to the south. After every fourth jump, the grasshopper restarts the sequence of jumps: 1 cm to the east, then 2 cm to the north, then 3 cm to the west, then 4 cm to the south. After a total of $n$ jumps, the position of the grasshopper is 162 cm to the west and 158 cm to the south of its original position. What is the sum of the squares of the digits of $n$?",
+    "correct_answer": "22",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems', 'Mathematics -> Discrete Mathematics -> Algorithms']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2783,
+    "original_question": "How many of the four integers $222, 2222, 22222$, and $222222$ are multiples of 3?",
+    "correct_answer": "2",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Number Theory -> Congruences",
+    "subject": [
+      "Mathematics -> Number Theory -> Congruences"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2784,
+    "original_question": "When three consecutive integers are added, the total is 27. What is the result when the same three integers are multiplied?",
+    "correct_answer": "720",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2793,
+    "original_question": "What is the expression $2^{3}+2^{2}+2^{1}$ equal to?",
+    "correct_answer": "14",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2811,
+    "original_question": "How many solid $1 \times 1 \times 1$ cubes are required to make a solid $2 \times 2 \times 2$ cube?",
+    "correct_answer": "8",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Solid Geometry -> 3D Shapes",
+    "subject": [
+      "Mathematics -> Geometry -> Solid Geometry -> 3D Shapes"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2812,
+    "original_question": "Charlie is making a necklace with yellow beads and green beads. She has already used 4 green beads and 0 yellow beads. How many yellow beads will she have to add so that $\frac{4}{5}$ of the total number of beads are yellow?",
+    "correct_answer": "16",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2815,
+    "original_question": "Ten numbers have an average (mean) of 87. Two of those numbers are 51 and 99. What is the average of the other eight numbers?",
+    "correct_answer": "90",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2817,
+    "original_question": "If $x \\%$ of 60 is 12, what is $15 \\%$ of $x$?",
+    "correct_answer": "3",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2823,
+    "original_question": "Ava's machine takes four-digit positive integers as input. When the four-digit integer $ABCD$ is input, the machine outputs the integer $A \times B + C \times D$. What is the output when the input is 2023?",
+    "correct_answer": "6",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2829,
+    "original_question": "A bicycle trip is 30 km long. Ari rides at an average speed of 20 km/h. Bri rides at an average speed of 15 km/h. If Ari and Bri begin at the same time, how many minutes after Ari finishes the trip will Bri finish?",
+    "correct_answer": "30",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2834,
+    "original_question": "If $\\frac{x-y}{x+y}=5$, what is the value of $\\frac{2x+3y}{3x-2y}$?",
+    "correct_answer": "0",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2851,
+    "original_question": "What is the value of $2^{4}-2^{3}$?",
+    "correct_answer": "2^{3}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2852,
+    "original_question": "Calculate the number of minutes in a week.",
+    "correct_answer": "10000",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2863,
+    "original_question": "How many pairs of positive integers $(x, y)$ have the property that the ratio $x: 4$ equals the ratio $9: y$?",
+    "correct_answer": "9",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+      "Mathematics -> Number Theory -> Integer Factorization -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2865,
+    "original_question": "Jitka hiked a trail. After hiking 60% of the length of the trail, she had 8 km left to go. What is the length of the trail?",
+    "correct_answer": "20 \\text{ km}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2871,
+    "original_question": "What is the number halfway between $\\frac{1}{12}$ and $\\frac{1}{10}$?",
+    "correct_answer": "\\frac{11}{120}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2872,
+    "original_question": "If \\( 50\\% \\) of \\( N \\) is 16, what is \\( 75\\% \\) of \\( N \\)?",
+    "correct_answer": "24",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2874,
+    "original_question": "In how many different ways can André form exactly \\( \\$10 \\) using \\( \\$1 \\) coins, \\( \\$2 \\) coins, and \\( \\$5 \\) bills?",
+    "correct_answer": "10",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2875,
+    "original_question": "What is the value of $\frac{8+4}{8-4}$?",
+    "correct_answer": "3",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2878,
+    "original_question": "What is the value of \\( \\sqrt{16 \\times \\sqrt{16}} \\)?",
+    "correct_answer": "2^3",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2890,
+    "original_question": "It takes Pearl 7 days to dig 4 holes. It takes Miguel 3 days to dig 2 holes. If they work together and each continues digging at these same rates, how many holes in total will they dig in 21 days?",
+    "correct_answer": "26",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2892,
+    "original_question": "At the Lacsap Hospital, Emily is a doctor and Robert is a nurse. Not including Emily, there are five doctors and three nurses at the hospital. Not including Robert, there are $d$ doctors and $n$ nurses at the hospital. What is the product of $d$ and $n$?",
+    "correct_answer": "12",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers",
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2901,
+    "original_question": "In $\\triangle PQR, \\angle RPQ=90^{\\circ}$ and $S$ is on $PQ$. If $SQ=14, SP=18$, and $SR=30$, what is the area of $\\triangle QRS$?",
+    "correct_answer": "168",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Triangulations",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Triangulations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2903,
+    "original_question": "Jim wrote a sequence of symbols a total of 50 times. How many more of one symbol than another did he write?",
+    "correct_answer": "150",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2905,
+    "original_question": "Chris received a mark of $50 \\%$ on a recent test. Chris answered 13 of the first 20 questions correctly. Chris also answered $25 \\%$ of the remaining questions on the test correctly. If each question on the test was worth one mark, how many questions in total were on the test?",
+    "correct_answer": "32",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2906,
+    "original_question": "If $2 \\times 2 \\times 3 \\times 3 \\times 5 \\times 6=5 \\times 6 \\times n \\times n$, what is a possible value of $n$?",
+    "correct_answer": "6",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2910,
+    "original_question": "The smallest of nine consecutive integers is 2012. These nine integers are placed in the circles to the right. The sum of the three integers along each of the four lines is the same. If this sum is as small as possible, what is the value of $u$?",
+    "correct_answer": "2015",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers",
+      "Mathematics -> Discrete Mathematics -> Combinatorics"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2914,
+    "original_question": "If $3+x=5$ and $-3+y=5$, what is the value of $x+y$?",
+    "correct_answer": "10",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2915,
+    "original_question": "The set $S=\\{1,2,3, \\ldots, 49,50\\}$ contains the first 50 positive integers. After the multiples of 2 and the multiples of 3 are removed, how many integers remain in the set $S$?",
+    "correct_answer": "17",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2922,
+    "original_question": "What is the smallest positive integer that is a multiple of each of 3, 5, 7, and 9?",
+    "correct_answer": "315",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Number Theory -> Least Common Multiples (LCM)",
+    "subject": [
+      "Mathematics -> Number Theory -> Least Common Multiples (LCM)"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2927,
+    "original_question": "What is the smallest integer that can be placed in the box so that $\\frac{1}{2} < \\frac{\\square}{9}$?",
+    "correct_answer": "5",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2930,
+    "original_question": "Mike rides his bicycle at a constant speed of $30 \\mathrm{~km} / \\mathrm{h}$. How many kilometres does Mike travel in 20 minutes?",
+    "correct_answer": "10",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2933,
+    "original_question": "Many of the students in M. Gamache's class brought a skateboard or a bicycle to school yesterday. The ratio of the number of skateboards to the number of bicycles was $7:4$. There were 12 more skateboards than bicycles. How many skateboards and bicycles were there in total?",
+    "correct_answer": "44",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2938,
+    "original_question": "If \\(3 \\times 3 \\times 5 \\times 5 \\times 7 \\times 9 = 3 \\times 3 \\times 7 \\times n \\times n\\), what is a possible value of \\(n\\)?",
+    "correct_answer": "15",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2943,
+    "original_question": "Ewan writes out a sequence where he counts by 11s starting at 3. The resulting sequence is $3, 14, 25, 36, \\ldots$. What is a number that will appear in Ewan's sequence?",
+    "correct_answer": "113",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Sequences -> Other",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Sequences -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2946,
+    "original_question": "What is the median of the numbers in the list $19^{20}, \\frac{20}{19}, 20^{19}, 2019, 20 \\times 19$?",
+    "correct_answer": "2019",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2951,
+    "original_question": "A hockey team has 6 more red helmets than blue helmets. The ratio of red helmets to blue helmets is $5:3$. What is the total number of red helmets and blue helmets?",
+    "correct_answer": "24",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2952,
+    "original_question": "Two circles are centred at the origin. The point $P(8,6)$ is on the larger circle and the point $S(0, k)$ is on the smaller circle. If $Q R=3$, what is the value of $k$?",
+    "correct_answer": "7",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Polygons",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Polygons"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2976,
+    "original_question": "Ben participates in a prize draw. He receives one prize that is equally likely to be worth $\\$5, \\$10$ or $\\$20$. Jamie participates in a different prize draw. She receives one prize that is equally likely to be worth $\\$30$ or $\\$40$. What is the probability that the total value of their prizes is exactly $\\$50$?",
+    "correct_answer": "\\frac{1}{3}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Other",
+    "subject": "['Mathematics -> Applied Mathematics -> Statistics -> Probability -> Other']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2981,
+    "original_question": "What is the sum of all of the possibilities for Sam's number if Sam thinks of a 5-digit number, Sam's friend Sally tries to guess his number, Sam writes the number of matching digits beside each of Sally's guesses, and a digit is considered \"matching\" when it is the correct digit in the correct position?",
+    "correct_answer": "526758",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Algebra -> Equations and Inequalities",
+    "subject": "['Mathematics -> Algebra -> Algebra -> Equations and Inequalities']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3008,
+    "original_question": "Natascha cycles 3 times as fast as she runs. She spends 4 hours cycling and 1 hour running. What is the ratio of the distance that she cycles to the distance that she runs?",
+    "correct_answer": "12:1",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3010,
+    "original_question": "Dewa writes down a list of four integers. He calculates the average of each group of three of the four integers. These averages are $32,39,40,44$. What is the largest of the four integers?",
+    "correct_answer": "59",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3039,
+    "original_question": "Jing purchased eight identical items. If the total cost was $\\$ 26$, what is the cost per item, in dollars?",
+    "correct_answer": "\\frac{26}{8}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3042,
+    "original_question": "Nasim buys trading cards in packages of 5 cards and in packages of 8 cards. He can purchase exactly 18 cards by buying two 5-packs and one 8-pack, but he cannot purchase exactly 12 cards with any combination of packages. For how many of the integers $n=24,25,26,27,28,29$ can he buy exactly $n$ cards?",
+    "correct_answer": "5",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3047,
+    "original_question": "Yann writes down the first $n$ consecutive positive integers, $1,2,3,4, \\ldots, n-1, n$. He removes four different integers $p, q, r, s$ from the list. At least three of $p, q, r, s$ are consecutive and $100<p<q<r<s$. The average of the integers remaining in the list is 89.5625. What is the number of possible values of $s$?",
+    "correct_answer": "22",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers', 'Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3054,
+    "original_question": "The operation $\\nabla$ is defined by $g \\nabla h=g^{2}-h^{2}$. If $g>0$ and $g \\nabla 6=45$, what is the value of $g$?",
+    "correct_answer": "9",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3056,
+    "original_question": "Ellie's drawer of hair clips contains 4 red clips, 5 blue clips, and 7 green clips. Each morning, she randomly chooses one hair clip to wear for the day. She returns this clip to the drawer each evening. One morning, Kyne removes $k$ hair clips before Ellie can make her daily selection. As a result, the probability that Ellie chooses a red clip is doubled. What is a possible value of $k$?",
+    "correct_answer": "12",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Other",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3070,
+    "original_question": "What is the side length of the larger square if a small square is drawn inside a larger square, and the area of the shaded region and the area of the unshaded region are each $18 \\mathrm{~cm}^{2}$?",
+    "correct_answer": "6 \\mathrm{~cm}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Area",
+    "subject": "['Mathematics -> Geometry -> Plane Geometry -> Area']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3079,
+    "original_question": "If \\( x = 2 \\) and \\( y = x^2 - 5 \\) and \\( z = y^2 - 5 \\), what is the value of \\( z \\)?",
+    "correct_answer": "-4",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3088,
+    "original_question": "When $x=2021$, what is the value of $\frac{4x}{x+2x}$?",
+    "correct_answer": "\frac{4}{3}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3101,
+    "original_question": "If a bag contains only green, yellow, and red marbles in the ratio $3: 4: 2$ and 63 of the marbles are not red, how many red marbles are in the bag?",
+    "correct_answer": "18",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3108,
+    "original_question": "If $4x + 14 = 8x - 48$, what is the value of $2x$?",
+    "correct_answer": "31",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3132,
+    "original_question": "The regular price for a bicycle is $\\$320$. The bicycle is on sale for $20\\%$ off. The regular price for a helmet is $\\$80$. The helmet is on sale for $10\\%$ off. If Sandra bought both items on sale, what is her percentage savings on the total purchase?",
+    "correct_answer": "18\\%",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3147,
+    "original_question": "For every real number $x$, what is the value of the expression $(x+1)^{2} - x^{2}$?",
+    "correct_answer": "2x + 1",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Algebra -> Polynomial Operations",
+    "subject": [
+      "Mathematics -> Algebra -> Algebra -> Polynomial Operations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3155,
+    "original_question": "For how many positive integers $n$, with $n \\leq 100$, is $n^{3}+5n^{2}$ the square of an integer?",
+    "correct_answer": "8",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers', 'Mathematics -> Number Theory -> Perfect Squares -> Other']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3158,
+    "original_question": "How many foonies are in a stack that has a volume of $50 \\mathrm{~cm}^{3}$, given that each foonie has a volume of $2.5 \\mathrm{~cm}^{3}$?",
+    "correct_answer": "20",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3188,
+    "original_question": "When a number is tripled and then decreased by 5, the result is 16. What is the original number?",
+    "correct_answer": "7",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3193,
+    "original_question": "In her last basketball game, Jackie scored 36 points. These points raised the average number of points that she scored per game from 20 to 21. To raise this average to 22 points, how many points must Jackie score in her next game?",
+    "correct_answer": "38",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations', 'Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3202,
+    "original_question": "Fifty numbers have an average of 76. Forty of these numbers have an average of 80. What is the average of the other ten numbers?",
+    "correct_answer": "60",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Averages -> Other",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Averages -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3394,
+    "original_question": "If Kai will celebrate his 25th birthday in March 2020, in what year was Kai born?",
+    "correct_answer": "1995",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3399,
+    "original_question": "Simplify $\frac{1}{2+\frac{2}{3}}$.",
+    "correct_answer": "\\frac{3}{8}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3411,
+    "original_question": "Simplify the expression $20(x+y)-19(y+x)$ for all values of $x$ and $y$.",
+    "correct_answer": "x+y",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Algebra -> Algebraic Expressions",
+    "subject": "['Mathematics -> Algebra -> Algebra -> Algebraic Expressions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3418,
+    "original_question": "Violet has one-half of the money she needs to buy her mother a necklace. After her sister gives her $\\$30$, she has three-quarters of the amount she needs. How much will Violet's father give her?",
+    "correct_answer": "$30",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3424,
+    "original_question": "A positive number is increased by $60\\%$. By what percentage should the result be decreased to return to the original value?",
+    "correct_answer": "37.5\\%",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Percentages -> Other",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Percentages -> Other']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3451,
+    "original_question": "Which number from the set $\\{1,2,3,4,5,6,7,8,9,10,11\\}$ must be removed so that the mean (average) of the numbers remaining in the set is 6.1?",
+    "correct_answer": "5",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3461,
+    "original_question": "Sophie has written three tests. Her marks were $73\\%$, $82\\%$, and $85\\%$. She still has two tests to write. All tests are equally weighted. Her goal is an average of $80\\%$ or higher. With which of the following pairs of marks on the remaining tests will Sophie not reach her goal: $79\\%$ and $82\\%$, $70\\%$ and $91\\%$, $76\\%$ and $86\\%$, $73\\%$ and $83\\%$, $61\\%$ and $99\\%$?",
+    "correct_answer": "73\\% and 83\\%",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Decimals",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Decimals']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3473,
+    "original_question": "Elena earns $\\$ 13.25$ per hour working at a store. How much does Elena earn in 4 hours?",
+    "correct_answer": "\\$53.00",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3501,
+    "original_question": "In 12 years, Janice will be 8 times as old as she was 2 years ago. How old is Janice now?",
+    "correct_answer": "4",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3505,
+    "original_question": "The value of $\\frac{x}{2}$ is less than the value of $x^{2}$. The value of $x^{2}$ is less than the value of $x$. Which of the following could be a value of $x$?",
+    "correct_answer": "\\frac{3}{4}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Intermediate Algebra -> Inequalities",
+    "subject": [
+      "Mathematics -> Algebra -> Intermediate Algebra -> Inequalities"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3532,
+    "original_question": "Order the numbers $3$, $\\frac{5}{2}$, and $\\sqrt{10}$ from smallest to largest.",
+    "correct_answer": "\\frac{5}{2}, 3, \\sqrt{10}",
+    "difficulty": 1.5,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Intermediate Algebra -> Inequalities",
+    "subject": "['Mathematics -> Algebra -> Intermediate Algebra -> Inequalities']",
+    "source": "omnimath"
+  }
+]

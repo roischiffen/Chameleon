@@ -1,0 +1,13 @@
+{
+  "folder": "mistral_large_latest_difficulty_1_5",
+  "model": "mistral-large-latest",
+  "difficulty": 1.5,
+  "total_questions": 100,
+  "correct": 49,
+  "incorrect": 51,
+  "accuracy": 49.0,
+  "empty_answers": 0,
+  "retried_questions": 0,
+  "fixed_questions": 5,
+  "verified_at": "2025-12-14T09:56:28.531896"
+}

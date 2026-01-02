@@ -1,0 +1,35 @@
+{
+  "model": "gpt-5-mini",
+  "difficulty": 1.0,
+  "total_questions": 397,
+  "correct": 331,
+  "accuracy": 83.38,
+  "empty_answers": 70,
+  "by_miu": {
+    "0.2": {
+      "correct": 84,
+      "total": 100,
+      "accuracy": 84.0,
+      "empty": 18
+    },
+    "0.5": {
+      "correct": 79,
+      "total": 97,
+      "accuracy": 81.4,
+      "empty": 17
+    },
+    "0.7": {
+      "correct": 87,
+      "total": 100,
+      "accuracy": 87.0,
+      "empty": 14
+    },
+    "0.9": {
+      "correct": 81,
+      "total": 100,
+      "accuracy": 81.0,
+      "empty": 21
+    }
+  },
+  "verified_at": "2025-12-14T09:56:28.538844"
+}

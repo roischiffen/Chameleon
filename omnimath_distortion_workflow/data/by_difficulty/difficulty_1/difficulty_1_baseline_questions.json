@@ -1,0 +1,1163 @@
+[
+  {
+    "question_id": 2676,
+    "original_question": "If $x+\\sqrt{81}=25$, what is the value of $x$?",
+    "correct_answer": "16",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2678,
+    "original_question": "The symbol $\\diamond$ is defined so that $a \\diamond b=\\frac{a+b}{a \\times b}$. What is the value of $3 \\diamond 6$?",
+    "correct_answer": "\\frac{1}{2}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2690,
+    "original_question": "At Wednesday's basketball game, the Cayley Comets scored 90 points. At Friday's game, they scored $80\\%$ as many points as they scored on Wednesday. How many points did they score on Friday?",
+    "correct_answer": "72",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2697,
+    "original_question": "Calculate the value of the expression $\\left(2 \\times \\frac{1}{3}\\right) \\times \\left(3 \\times \\frac{1}{2}\\right)$.",
+    "correct_answer": "1",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2701,
+    "original_question": "If $x=3$, $y=2x$, and $z=3y$, what is the value of $z$?",
+    "correct_answer": "18",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2702,
+    "original_question": "If \\( (2^{a})(2^{b})=64 \\), what is the mean (average) of \\( a \\) and \\( b \\)?",
+    "correct_answer": "3",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2704,
+    "original_question": "If $x+\\sqrt{25}=\\sqrt{36}$, what is the value of $x$?",
+    "correct_answer": "1",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2710,
+    "original_question": "If $x = -3$, what is the value of $(x-3)^{2}$?",
+    "correct_answer": "36",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2719,
+    "original_question": "If \\( 3-5+7=6-x \\), what is the value of \\( x \\)?",
+    "correct_answer": "1",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2742,
+    "original_question": "What is the value of $(-2)^{3}-(-3)^{2}$?",
+    "correct_answer": "-17",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2744,
+    "original_question": "Evaluate the expression $8-\frac{6}{4-2}$.",
+    "correct_answer": "5",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2749,
+    "original_question": "Calculate the value of the expression $2 \\times 0 + 2 \\times 4$.",
+    "correct_answer": "8",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2769,
+    "original_question": "What is the value of $(3x + 2y) - (3x - 2y)$ when $x = -2$ and $y = -1$?",
+    "correct_answer": "-4",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2772,
+    "original_question": "If $x=3$, what is the value of $-(5x - 6x)$?",
+    "correct_answer": "3",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2788,
+    "original_question": "If $\\frac{1}{9}+\\frac{1}{18}=\\frac{1}{\\square}$, what is the number that replaces the $\\square$ to make the equation true?",
+    "correct_answer": "6",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2800,
+    "original_question": "If $3 \times n=6 \times 2$, what is the value of $n$?",
+    "correct_answer": "4",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2806,
+    "original_question": "What is the value of $\frac{(20-16) \times (12+8)}{4}$?",
+    "correct_answer": "20",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2813,
+    "original_question": "If \\( x=2 \\), what is the value of \\( (x+2-x)(2-x-2) \\)?",
+    "correct_answer": "-4",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2824,
+    "original_question": "What is the value of \\( \\frac{5-2}{2+1} \\)?",
+    "correct_answer": "1",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2827,
+    "original_question": "Evaluate the expression $2x^{2}+3x^{2}$ when $x=2$.",
+    "correct_answer": "20",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Algebra -> Algebraic Expressions",
+    "subject": [
+      "Mathematics -> Algebra -> Algebra -> Algebraic Expressions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2828,
+    "original_question": "If $\\frac{1}{9}+\\frac{1}{18}=\\frac{1}{\\square}$, what is the number that replaces the $\\square$ to make the equation true?",
+    "correct_answer": "6",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2838,
+    "original_question": "Calculate the value of the expression $(8 \\times 6)-(4 \\div 2)$.",
+    "correct_answer": "46",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2842,
+    "original_question": "Carrie sends five text messages to her brother each Saturday and Sunday, and two messages on other days. Over four weeks, how many text messages does Carrie send?",
+    "correct_answer": "80",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2850,
+    "original_question": "If $x=2y$ and $y \\neq 0$, what is the value of $(x+2y)-(2x+y)$?",
+    "correct_answer": "-y",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2856,
+    "original_question": "When $x=-2$, what is the value of $(x+1)^{3}$?",
+    "correct_answer": "-1",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2859,
+    "original_question": "How many points does a sports team earn for 9 wins, 3 losses, and 4 ties, if they earn 2 points for each win, 0 points for each loss, and 1 point for each tie?",
+    "correct_answer": "22",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2870,
+    "original_question": "If $10x+y=75$ and $10y+x=57$ for some positive integers $x$ and $y$, what is the value of $x+y$?",
+    "correct_answer": "12",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2879,
+    "original_question": "The operation \\( \\otimes \\) is defined by \\( a \\otimes b = \\frac{a}{b} + \\frac{b}{a} \\). What is the value of \\( 4 \\otimes 8 \\)?",
+    "correct_answer": "\\frac{5}{2}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2880,
+    "original_question": "If \\( 8 + 6 = n + 8 \\), what is the value of \\( n \\)?",
+    "correct_answer": "6",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2881,
+    "original_question": "If $x=3$, $y=2x$, and $z=3y$, what is the average of $x$, $y$, and $z$?",
+    "correct_answer": "9",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2882,
+    "original_question": "What is 30% of 200?",
+    "correct_answer": "60",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Decimals",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Decimals"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2891,
+    "original_question": "If 7:30 a.m. was 16 minutes ago, how many minutes will it be until 8:00 a.m.?",
+    "correct_answer": "14",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers",
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2895,
+    "original_question": "If $y=1$ and $4x-2y+3=3x+3y$, what is the value of $x$?",
+    "correct_answer": "2",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2899,
+    "original_question": "Determine which of the following expressions has the largest value: $4^2$, $4 \\times 2$, $4 - 2$, $\\frac{4}{2}$, or $4 + 2$.",
+    "correct_answer": "16",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2900,
+    "original_question": "Calculate the expression $8 \\times 10^{5}+4 \\times 10^{3}+9 \\times 10+5$.",
+    "correct_answer": "804095",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2902,
+    "original_question": "The average (mean) of two numbers is 7. One of the numbers is 5. What is the other number?",
+    "correct_answer": "9",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2907,
+    "original_question": "If $x=2$, what is the value of $4x^2 - 3x^2$?",
+    "correct_answer": "4",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2916,
+    "original_question": "If the perimeter of a square is 28, what is the side length of the square?",
+    "correct_answer": "7",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Polygons",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Polygons"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2917,
+    "original_question": "Erin walks $\\frac{3}{5}$ of the way home in 30 minutes. If she continues to walk at the same rate, how many minutes will it take her to walk the rest of the way home?",
+    "correct_answer": "20",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2920,
+    "original_question": "Points with coordinates $(1,1),(5,1)$ and $(1,7)$ are three vertices of a rectangle. What are the coordinates of the fourth vertex of the rectangle?",
+    "correct_answer": "(5,7)",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Plane Geometry -> Polygons",
+    "subject": [
+      "Mathematics -> Geometry -> Plane Geometry -> Polygons"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2928,
+    "original_question": "What is the value of the expression \\( 4 + \\frac{3}{10} + \\frac{9}{1000} \\)?",
+    "correct_answer": "4.309",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Decimals",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Decimals']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2931,
+    "original_question": "Calculate the value of the expression $\\frac{1+(3 \\times 5)}{2}$.",
+    "correct_answer": "8",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2935,
+    "original_question": "What is the result of subtracting eighty-seven from nine hundred forty-three?",
+    "correct_answer": "856",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2936,
+    "original_question": "What is the smallest integer that can be placed in the box so that $\\frac{1}{2} < \\frac{\\square}{9}$?",
+    "correct_answer": "5",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2939,
+    "original_question": "What is the value of the expression $2 \\times 3 + 2 \\times 3$?",
+    "correct_answer": "12",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2944,
+    "original_question": "Seven students shared the cost of a $\\$26.00$ pizza. Each student paid either $\\$3.71$ or $\\$3.72$. How many students paid $\\$3.72$?",
+    "correct_answer": "3",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2948,
+    "original_question": "If $\\sqrt{n+9}=25$, what is the value of $n$?",
+    "correct_answer": "616",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2949,
+    "original_question": "If $2x + 6 = 16$, what is the value of $x + 4$?",
+    "correct_answer": "9",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2955,
+    "original_question": "When two positive integers are multiplied, the result is 24. When these two integers are added, the result is 11. What is the result when the smaller integer is subtracted from the larger integer?",
+    "correct_answer": "5",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2958,
+    "original_question": "The list $p, q, r, s$ consists of four consecutive integers listed in increasing order. If $p + s = 109$, what is the value of $q + r$?",
+    "correct_answer": "109",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2963,
+    "original_question": "At what time did Kamal turn his computer off if he turned it on at 2 p.m. on Friday and left it on for exactly 30 consecutive hours?",
+    "correct_answer": "8 \\text{ p.m. on Saturday}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2970,
+    "original_question": "What is the value of \\( \\frac{2018-18+20}{2} \\)?",
+    "correct_answer": "1010",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2982,
+    "original_question": "What is the value of $m$ if Tobias downloads $m$ apps, each app costs $\\$ 2.00$ plus $10 \\%$ tax, and he spends $\\$ 52.80$ in total on these $m$ apps?",
+    "correct_answer": "24",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2984,
+    "original_question": "If $\\frac{1}{3}$ of $x$ is equal to 4, what is $\\frac{1}{6}$ of $x$?",
+    "correct_answer": "2",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2985,
+    "original_question": "A line with equation \\( y = 2x + b \\) passes through the point \\((-4, 0)\\). What is the value of \\(b\\)?",
+    "correct_answer": "8",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2986,
+    "original_question": "How many odd integers are there between $\frac{17}{4}$ and $\frac{35}{2}$?",
+    "correct_answer": "7",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2990,
+    "original_question": "Evaluate the expression $2^{3}-2+3$.",
+    "correct_answer": "9",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Simple Equations']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 2998,
+    "original_question": "A box contains 5 black ties, 7 gold ties, and 8 pink ties. What is the probability that Stephen randomly chooses a pink tie?",
+    "correct_answer": "\\frac{2}{5}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Other",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3002,
+    "original_question": "Calculate the value of the expression $2+3 \times 5+2$.",
+    "correct_answer": "19",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3004,
+    "original_question": "If $2x-3=10$, what is the value of $4x$?",
+    "correct_answer": "26",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3005,
+    "original_question": "What is the value of $1^{3}+2^{3}+3^{3}+4^{3}$?",
+    "correct_answer": "10^{2}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3007,
+    "original_question": "If $4^{n}=64^{2}$, what is the value of $n$?",
+    "correct_answer": "6",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Exponents -> Other",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Exponents -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3015,
+    "original_question": "What is the value of the expression $\frac{3}{10}+\frac{3}{100}+\frac{3}{1000}$?",
+    "correct_answer": "0.333",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3027,
+    "original_question": "What is the difference between the largest and smallest numbers in the list $0.023,0.302,0.203,0.320,0.032$?",
+    "correct_answer": "0.297",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Decimals",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Decimals"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3036,
+    "original_question": "If $x=11$, $y=-8$, and $2x-3z=5y$, what is the value of $z$?",
+    "correct_answer": "\\frac{62}{3}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3044,
+    "original_question": "Robyn has 4 tasks to do and Sasha has 14 tasks to do. How many of Sasha's tasks should Robyn do in order for them to have the same number of tasks?",
+    "correct_answer": "5",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3051,
+    "original_question": "The operation $\\nabla$ is defined by $a \\nabla b=4 a+b$. What is the value of $(5 \\nabla 2) \\nabla 2$?",
+    "correct_answer": "90",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3060,
+    "original_question": "What is the sum of the first 9 positive multiples of 5?",
+    "correct_answer": "225",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Integers']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3071,
+    "original_question": "If $m+1=\frac{n-2}{3}$, what is the value of $3 m-n$?",
+    "correct_answer": "-5",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Equations -> Other",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Equations -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3072,
+    "original_question": "A numerical value is assigned to each letter of the alphabet. The value of a word is determined by adding up the numerical values of each of its letters. The value of SET is 2, the value of HAT is 7, the value of TASTE is 3, and the value of MAT is 4. What is the value of the word MATH?",
+    "correct_answer": "10",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3074,
+    "original_question": "When 542 is multiplied by 3, what is the ones (units) digit of the result?",
+    "correct_answer": "6",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3091,
+    "original_question": "If $2n + 5 = 16$, what is the value of the expression $2n - 3$?",
+    "correct_answer": "8",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3095,
+    "original_question": "If \\( 3x + 4 = x + 2 \\), what is the value of \\( x \\)?",
+    "correct_answer": "-1",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3099,
+    "original_question": "Three $1 \times 1 \times 1$ cubes are joined side by side. What is the surface area of the resulting prism?",
+    "correct_answer": "14",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Geometry -> Solid Geometry -> Surface Area",
+    "subject": [
+      "Mathematics -> Geometry -> Solid Geometry -> Surface Area"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3123,
+    "original_question": "How many of the numbers in Grace's sequence, starting from 43 and each number being 4 less than the previous one, are positive?",
+    "correct_answer": "11",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3125,
+    "original_question": "If the perimeter of a square is 28, what is the side length of the square?",
+    "correct_answer": "7",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3150,
+    "original_question": "Calculate the value of $(3,1) \\nabla (4,2)$ using the operation ' $\\nabla$ ' defined by $(a, b) \\nabla (c, d)=ac+bd$.",
+    "correct_answer": "14",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3153,
+    "original_question": "If each of Bill's steps is $\frac{1}{2}$ metre long, how many steps does Bill take to walk 12 metres in a straight line?",
+    "correct_answer": "24",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Decimals",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Decimals']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3166,
+    "original_question": "There are 20 students in a class. In total, 10 of them have black hair, 5 of them wear glasses, and 3 of them both have black hair and wear glasses. How many of the students have black hair but do not wear glasses?",
+    "correct_answer": "7",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3167,
+    "original_question": "After a fair die with faces numbered 1 to 6 is rolled, the number on the top face is $x$. What is the most likely outcome?",
+    "correct_answer": "x > 2",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3201,
+    "original_question": "An integer $n$ is decreased by 2 and then multiplied by 5. If the result is 85, what is the value of $n$?",
+    "correct_answer": "19",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3264,
+    "original_question": "If $2.4 \\times 10^{8}$ is doubled, what is the result?",
+    "correct_answer": "4.8 \\times 10^{8}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3280,
+    "original_question": "What is 25% of 60?",
+    "correct_answer": "15",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3396,
+    "original_question": "For what value of $k$ is the line through the points $(3,2k+1)$ and $(8,4k-5)$ parallel to the $x$-axis?",
+    "correct_answer": "3",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3402,
+    "original_question": "What percentage of students did not receive a muffin, given that 38\\% of students received a muffin?",
+    "correct_answer": "62\\%",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Percentages -> Other",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Percentages -> Other"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3412,
+    "original_question": "What was the range of temperatures on Monday in Fermatville, given that the minimum temperature was $-11^{\\circ} \\mathrm{C}$ and the maximum temperature was $14^{\\circ} \\mathrm{C}$?",
+    "correct_answer": "25^{\\circ} \\mathrm{C}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3429,
+    "original_question": "If $10 \\%$ of $s$ is $t$, what does $s$ equal?",
+    "correct_answer": "10t",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Simple Equations",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3442,
+    "original_question": "The integer 2014 is between which powers of 10?",
+    "correct_answer": "10^{3} \\text{ and } 10^{4}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3444,
+    "original_question": "What number should go in the $\\square$ to make the equation $\\frac{3}{4}+\\frac{4}{\\square}=1$ true?",
+    "correct_answer": "16",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3445,
+    "original_question": "Which of the following divisions is not equal to a whole number: $\\frac{60}{12}$, $\\frac{60}{8}$, $\\frac{60}{5}$, $\\frac{60}{4}$, $\\frac{60}{3}$?",
+    "correct_answer": "7.5",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3447,
+    "original_question": "Which number is greater than 0.7?",
+    "correct_answer": "0.8",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Decimals",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Decimals"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3450,
+    "original_question": "Anna walked at a constant rate. If she walked 600 metres in 4 minutes, how far did she walk in 6 minutes?",
+    "correct_answer": "900",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3453,
+    "original_question": "Arrange the numbers $2011, \\sqrt{2011}, 2011^{2}$ in increasing order.",
+    "correct_answer": "\\sqrt{2011}, 2011, 2011^{2}",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3457,
+    "original_question": "The value of $\\sqrt{3^{3}+3^{3}+3^{3}}$ is what?",
+    "correct_answer": "9",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Integers",
+    "subject": [
+      "Mathematics -> Algebra -> Prealgebra -> Integers"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3460,
+    "original_question": "The 17th day of a month is Saturday. What was the first day of that month?",
+    "correct_answer": "Thursday",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3462,
+    "original_question": "Which of the following expressions is not equivalent to $3x + 6$?",
+    "correct_answer": "\\frac{1}{3}(3x) + \\frac{2}{3}(9)",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Algebra -> Algebraic Expressions",
+    "subject": [
+      "Mathematics -> Algebra -> Algebra -> Algebraic Expressions"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3485,
+    "original_question": "Who is the tallest if Igor is shorter than Jie, Faye is taller than Goa, Jie is taller than Faye, and Han is shorter than Goa?",
+    "correct_answer": "Jie",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3488,
+    "original_question": "Peyton puts 30 L of oil and 15 L of vinegar into a large empty can. He then adds 15 L of oil to create a new mixture. What percentage of the new mixture is oil?",
+    "correct_answer": "75\\%",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3497,
+    "original_question": "If July 3, 2030 is a Wednesday, what day of the week is July 14, 2030?",
+    "correct_answer": "Sunday",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Applied Mathematics -> Math Word Problems",
+    "subject": "['Mathematics -> Applied Mathematics -> Math Word Problems']",
+    "source": "omnimath"
+  },
+  {
+    "question_id": 3544,
+    "original_question": "The value of \\( \\frac{1}{2} + \\frac{2}{4} + \\frac{4}{8} + \\frac{8}{16} \\) is what?",
+    "correct_answer": "2",
+    "difficulty": 1.0,
+    "difficulty_category": "easy",
+    "domain": "Mathematics -> Algebra -> Prealgebra -> Fractions",
+    "subject": "['Mathematics -> Algebra -> Prealgebra -> Fractions']",
+    "source": "omnimath"
+  }
+]

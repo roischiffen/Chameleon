@@ -1,0 +1,13 @@
+{
+  "folder": "gpt_5_mini_difficulty_1_0",
+  "model": "gpt-5-mini",
+  "difficulty": 1.0,
+  "total_questions": 100,
+  "correct": 96,
+  "incorrect": 4,
+  "accuracy": 96.0,
+  "empty_answers": 0,
+  "retried_questions": 10,
+  "fixed_questions": 2,
+  "verified_at": "2025-12-14T09:56:28.530589"
+}

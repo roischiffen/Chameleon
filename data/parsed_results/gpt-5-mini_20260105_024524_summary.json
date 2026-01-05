@@ -1,0 +1,51 @@
+{
+  "model": "gpt-5-mini_20260105_024524",
+  "total_responses": 1500,
+  "by_miu": {
+    "0.0": {
+      "count": 300,
+      "sample_answers": [
+        "199\u03c0",
+        "36",
+        "40"
+      ]
+    },
+    "0.2": {
+      "count": 300,
+      "sample_answers": [
+        "199\u03c0",
+        "36",
+        "40"
+      ]
+    },
+    "0.5": {
+      "count": 300,
+      "sample_answers": [
+        "199\u03c0",
+        "36",
+        "40"
+      ]
+    },
+    "0.7": {
+      "count": 300,
+      "sample_answers": [
+        "199\u03c0",
+        "36",
+        "40"
+      ]
+    },
+    "0.9": {
+      "count": 300,
+      "sample_answers": [
+        "199\u03c0",
+        "36",
+        "40"
+      ]
+    }
+  },
+  "by_category": {
+    "category_1": 500,
+    "category_2": 500,
+    "category_3": 500
+  }
+}

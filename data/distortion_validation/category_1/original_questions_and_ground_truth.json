@@ -1,0 +1,1003 @@
+
+[
+  {
+    "question_id": "582327ed443b",
+    "problem": "Find the area of the region between a circle of radius 100 and a circle of radius 99.",
+    "answer": "199 \\pi",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Solid Geometry -> Other"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "b0fc92bb9f0e",
+    "problem": "Three different numbers from the list $2, 3, 4, 6$ have a sum of 11. What is the product of these numbers?",
+    "answer": "36",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "528af5c12ee5",
+    "problem": "A bag contains 8 red balls, a number of white balls, and no other balls. If $\\frac{5}{6}$ of the balls in the bag are white, then how many white balls are in the bag?",
+    "answer": "40",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "5ad9741a825c",
+    "problem": "What is the largest number of squares with side length 2 that can be arranged, without overlapping, inside a square with side length 8?",
+    "answer": "16",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "aa2bd3803def",
+    "problem": "A rectangle has length 8 cm and width $\\pi$ cm. A semi-circle has the same area as the rectangle. What is its radius?",
+    "answer": "4",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "beaf9becee0a",
+    "problem": "The operation $\\nabla$ is defined by $g \\nabla h=g^{2}-h^{2}$. If $g>0$ and $g \\nabla 6=45$, what is the value of $g$?",
+    "answer": "9",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "7e4152782fa3",
+    "problem": "The regular price for a bicycle is $\\$320$. The bicycle is on sale for $20\\%$ off. The regular price for a helmet is $\\$80$. The helmet is on sale for $10\\%$ off. If Sandra bought both items on sale, what is her percentage savings on the total purchase?",
+    "answer": "18\\%",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "0a9ba67a4ede",
+    "problem": "Harriet ran a 1000 m course in 380 seconds. She ran the first 720 m of the course at a constant speed of 3 m/s. What was her speed for the remaining part of the course?",
+    "answer": "2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.9375
+  },
+  {
+    "question_id": "2fec8f0770bb",
+    "problem": "A cube has an edge length of 30. A rectangular solid has edge lengths 20, 30, and $L$. If the cube and the rectangular solid have equal surface areas, what is the value of $L$?",
+    "answer": "42",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Solid Geometry -> Surface Area"
+    ],
+    "llama8b_solve_rate": 0.921875
+  },
+  {
+    "question_id": "46ee0fd35d6b",
+    "problem": "If $m+1=\frac{n-2}{3}$, what is the value of $3 m-n$?",
+    "answer": "-5",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.921875
+  },
+  {
+    "question_id": "e571d4571371",
+    "problem": "If $2 x^{2}=9 x-4$ and $x \neq 4$, what is the value of $2 x$?",
+    "answer": "1",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.921875
+  },
+  {
+    "question_id": "e3031effb53b",
+    "problem": "Solve for $2d$ if $10d + 8 = 528$.",
+    "answer": "104",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.921875
+  },
+  {
+    "question_id": "e196143c7aa6",
+    "problem": "There are 30 people in a room, 60\\% of whom are men. If no men enter or leave the room, how many women must enter the room so that 40\\% of the total number of people in the room are men?",
+    "answer": "15",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.90625
+  },
+  {
+    "question_id": "ffb1edbae65d",
+    "problem": "If $10x+y=75$ and $10y+x=57$ for some positive integers $x$ and $y$, what is the value of $x+y$?",
+    "answer": "12",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.90625
+  },
+  {
+    "question_id": "b741b88b0450",
+    "problem": "What percentage of students did not receive a muffin, given that 38\\% of students received a muffin?",
+    "answer": "62\\%",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.90625
+  },
+  {
+    "question_id": "1b93debfae02",
+    "problem": "Mary and Sally were once the same height. Since then, Sally grew \\( 20\\% \\) taller and Mary's height increased by half as many centimetres as Sally's height increased. Sally is now 180 cm tall. How tall, in cm, is Mary now?",
+    "answer": "165",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.90625
+  },
+  {
+    "question_id": "a1deef821705",
+    "problem": "If $x=1$ is a solution of the equation $x^{2} + ax + 1 = 0$, what is the value of $a$?",
+    "answer": "-2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.890625
+  },
+  {
+    "question_id": "63c722be11f5",
+    "problem": "If $4^{n}=64^{2}$, what is the value of $n$?",
+    "answer": "6",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Intermediate Algebra -> Exponential Functions"
+    ],
+    "llama8b_solve_rate": 0.890625
+  },
+  {
+    "question_id": "898e269620e4",
+    "problem": "The price of each item at the Gauss Gadget Store has been reduced by $20 \\%$ from its original price. An MP3 player has a sale price of $\\$ 112$. What would the same MP3 player sell for if it was on sale for $30 \\%$ off of its original price?",
+    "answer": "98",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.890625
+  },
+  {
+    "question_id": "c43fe93e0db3",
+    "problem": "Peyton puts 30 L of oil and 15 L of vinegar into a large empty can. He then adds 15 L of oil to create a new mixture. What percentage of the new mixture is oil?",
+    "answer": "75\\%",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.890625
+  },
+  {
+    "question_id": "27ec5a3bc409",
+    "problem": "Find the area of triangle $ABC$ given that $AB=8$, $AC=3$, and $\\angle BAC=60^{\\circ}$.",
+    "answer": "6 \\sqrt{3}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "llama8b_solve_rate": 0.875
+  },
+  {
+    "question_id": "f88dc90596fc",
+    "problem": "What is the expression $2^{3}+2^{2}+2^{1}$ equal to?",
+    "answer": "14",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Prealgebra -> Other"
+    ],
+    "llama8b_solve_rate": 0.875
+  },
+  {
+    "question_id": "de122314bbaf",
+    "problem": "The set $S=\\{1,2,3, \\ldots, 49,50\\}$ contains the first 50 positive integers. After the multiples of 2 and the multiples of 3 are removed, how many integers remain in the set $S$?",
+    "answer": "17",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.875
+  },
+  {
+    "question_id": "1ddf45fdbbab",
+    "problem": "At the start of this month, Mathilde and Salah each had 100 coins. For Mathilde, this was $25 \\%$ more coins than she had at the start of last month. For Salah, this was $20 \\%$ fewer coins than he had at the start of last month. What was the total number of coins that they had at the start of last month?",
+    "answer": "205",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.875
+  },
+  {
+    "question_id": "39cd9fa6e43f",
+    "problem": "There are 400 students at Pascal H.S., where the ratio of boys to girls is $3: 2$. There are 600 students at Fermat C.I., where the ratio of boys to girls is $2: 3$. What is the ratio of boys to girls when considering all students from both schools?",
+    "answer": "12:13",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.859375
+  },
+  {
+    "question_id": "992ceef66bc1",
+    "problem": "If $x \\%$ of 60 is 12, what is $15 \\%$ of $x$?",
+    "answer": "3",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.859375
+  },
+  {
+    "question_id": "c78c03e013cb",
+    "problem": "If $(x+a)(x+8)=x^{2}+bx+24$ for all values of $x$, what is the value of $a+b$?",
+    "answer": "14",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.859375
+  },
+  {
+    "question_id": "0b16c12763ec",
+    "problem": "A basket contains 12 apples and 15 bananas. If 3 more bananas are added to the basket, what fraction of the fruit in the basket will be bananas?",
+    "answer": "\\frac{3}{5}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.859375
+  },
+  {
+    "question_id": "b55c30afc0dd",
+    "problem": "Given $\\frac{e}{f}=\\frac{3}{4}$ and $\\sqrt{e^{2}+f^{2}}=15$, find $ef$.",
+    "answer": "108",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.84375
+  },
+  {
+    "question_id": "c59ca45e9b19",
+    "problem": "If $2^{11} \\times 6^{5}=4^{x} \\times 3^{y}$ for some positive integers $x$ and $y$, what is the value of $x+y$?",
+    "answer": "13",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.84375
+  },
+  {
+    "question_id": "5b2c4f32cbc5",
+    "problem": "Charlie is making a necklace with yellow beads and green beads. She has already used 4 green beads and 0 yellow beads. How many yellow beads will she have to add so that $\frac{4}{5}$ of the total number of beads are yellow?",
+    "answer": "16",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.84375
+  },
+  {
+    "question_id": "8168488e1bd8",
+    "problem": "The line with equation $y = 3x + 5$ is translated 2 units to the right. What is the equation of the resulting line?",
+    "answer": "y = 3x - 1",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "5fb4046b9518",
+    "problem": "Last Thursday, each of the students in M. Fermat's class brought one piece of fruit to school. Each brought an apple, a banana, or an orange. In total, $20\\%$ of the students brought an apple and $35\\%$ brought a banana. If 9 students brought oranges, how many students were in the class?",
+    "answer": "20",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "b95ba79a49fb",
+    "problem": "If \\( a=\\frac{2}{3}b \\) and \\( b \\neq 0 \\), what is \\( \\frac{9a+8b}{6a} \\) equal to?",
+    "answer": "\\frac{7}{2}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Algebraic Expressions"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "6372c4a410c5",
+    "problem": "What is the result of subtracting eighty-seven from nine hundred forty-three?",
+    "answer": "856",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Prealgebra -> Other"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "72249b462aae",
+    "problem": "The Athenas are playing a 44 game season. They have 20 wins and 15 losses so far. What is the smallest number of their remaining games that they must win to make the playoffs, given they must win at least 60% of all of their games?",
+    "answer": "7",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "c8f97481b633",
+    "problem": "Two different numbers are randomly selected from the set $\\{-3, -1, 0, 2, 4\\}$ and then multiplied together. What is the probability that the product of the two numbers chosen is 0?",
+    "answer": "\\frac{2}{5}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "e82db12efac4",
+    "problem": "Which number from the set $\\{1,2,3,4,5,6,7,8,9,10,11\\}$ must be removed so that the mean (average) of the numbers remaining in the set is 6.1?",
+    "answer": "5",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Other"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "abb03c56f108",
+    "problem": "The value of \\( \\frac{1}{2} + \\frac{2}{4} + \\frac{4}{8} + \\frac{8}{16} \\) is what?",
+    "answer": "2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Other"
+    ],
+    "llama8b_solve_rate": 0.828125
+  },
+  {
+    "question_id": "2baed84400ca",
+    "problem": "If $\\cos 60^{\\circ} = \\cos 45^{\\circ} \\cos \\theta$ with $0^{\\circ} \\leq \\theta \\leq 90^{\\circ}$, what is the value of $\\theta$?",
+    "answer": "45^{\\circ}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Precalculus -> Trigonometric Functions"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "71db32f11023",
+    "problem": "How many of the four integers $222, 2222, 22222$, and $222222$ are multiples of 3?",
+    "answer": "2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Other"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "d892ef8a0fee",
+    "problem": "The first four terms of a sequence are $1,4,2$, and 3. Beginning with the fifth term in the sequence, each term is the sum of the previous four terms. What is the eighth term?",
+    "answer": "66",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Sequences and Series"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "ca9aa75f059e",
+    "problem": "Natalie and Harpreet are the same height. Jiayin's height is 161 cm. The average (mean) of the heights of Natalie, Harpreet and Jiayin is 171 cm. What is Natalie's height?",
+    "answer": "176 \\text{ cm}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "bff69da8d1a0",
+    "problem": "If $512^{x}=64^{240}$, what is the value of $x$?",
+    "answer": "160",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Algebraic Expressions -> Exponential Functions"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "cc92855a36d7",
+    "problem": "In the decimal representation of $\frac{1}{7}$, the 100th digit to the right of the decimal is?",
+    "answer": "8",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Other"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "cca7d26008f1",
+    "problem": "Find the greatest positive integer $x$ such that $23^{6+x}$ divides $2000!$",
+    "answer": "83",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Prime Numbers"
+    ],
+    "llama8b_solve_rate": 0.8125
+  },
+  {
+    "question_id": "20f215c96152",
+    "problem": "Arturo has an equal number of $\\$5$ bills, of $\\$10$ bills, and of $\\$20$ bills. The total value of these bills is $\\$700$. How many $\\$5$ bills does Arturo have?",
+    "answer": "20",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.796875
+  },
+  {
+    "question_id": "607724e7f7ba",
+    "problem": "Two identical smaller cubes are stacked next to a larger cube. Each of the two smaller cubes has a volume of 8. What is the volume of the larger cube?",
+    "answer": "64",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Solid Geometry -> Volume"
+    ],
+    "llama8b_solve_rate": 0.796875
+  },
+  {
+    "question_id": "035b93a3d1b8",
+    "problem": "What is the value of the expression $\frac{3}{10}+\frac{3}{100}+\frac{3}{1000}$?",
+    "answer": "0.333",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "llama8b_solve_rate": 0.796875
+  },
+  {
+    "question_id": "4ef0ba0fd011",
+    "problem": "What number should go in the $\\square$ to make the equation $\\frac{3}{4}+\\frac{4}{\\square}=1$ true?",
+    "answer": "16",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "llama8b_solve_rate": 0.796875
+  },
+  {
+    "question_id": "e53a149c419e",
+    "problem": "Which number is closest to \\(-3.4\\) on a number line?",
+    "answer": "-3",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Other"
+    ],
+    "llama8b_solve_rate": 0.796875
+  },
+  {
+    "question_id": "e2c2afcdf235",
+    "problem": "What fraction of the pizza is left for Wally if Jovin takes $\\frac{1}{3}$ of the pizza, Anna takes $\\frac{1}{6}$ of the pizza, and Olivia takes $\\frac{1}{4}$ of the pizza?",
+    "answer": "\\frac{1}{4}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Prealgebra -> Fractions"
+    ],
+    "llama8b_solve_rate": 0.796875
+  },
+  {
+    "question_id": "db3b41c698c2",
+    "problem": "Find the sum of the series $\\sum_{n=1}^{\\infty} \\frac{1}{n^{2}+2n}$.",
+    "answer": "\\frac{3}{4}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Calculus -> Other"
+    ],
+    "llama8b_solve_rate": 0.78125
+  },
+  {
+    "question_id": "5d0056295143",
+    "problem": "Suppose that $\\sqrt{\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5} \\times \\cdots \\times \\frac{n-1}{n}} = \\frac{1}{8}$. What is the value of $n$?",
+    "answer": "64",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Intermediate Algebra -> Other"
+    ],
+    "llama8b_solve_rate": 0.78125
+  },
+  {
+    "question_id": "840b076b93d5",
+    "problem": "If $10 \\%$ of $s$ is $t$, what does $s$ equal?",
+    "answer": "10t",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Prealgebra -> Simple Equations"
+    ],
+    "llama8b_solve_rate": 0.765625
+  },
+  {
+    "question_id": "7f61513a4d0e",
+    "problem": "If $x$ is $20 \\%$ of $y$ and $x$ is $50 \\%$ of $z$, then what percentage is $z$ of $y$?",
+    "answer": "40 \\%",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.765625
+  },
+  {
+    "question_id": "c111df06ef79",
+    "problem": "Patrick and Anderson are having a snowball fight. Patrick throws a snowball at Anderson which is shaped like a sphere with a radius of 10 centimeters. Anderson catches the snowball and uses the snow from the snowball to construct snowballs with radii of 4 centimeters. Given that the total volume of the snowballs that Anderson constructs cannot exceed the volume of the snowball that Patrick threw, how many snowballs can Anderson construct?",
+    "answer": "15",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Solid Geometry -> Volume"
+    ],
+    "llama8b_solve_rate": 0.75
+  },
+  {
+    "question_id": "cffe35791c04",
+    "problem": "In the list $2, x, y, 5$, the sum of any two adjacent numbers is constant. What is the value of $x-y$?",
+    "answer": "3",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.75
+  },
+  {
+    "question_id": "1fd7a39298a3",
+    "problem": "When $k$ candies were distributed among seven people so that each person received the same number of candies and each person received as many candies as possible, there were 3 candies left over. If instead, $3 k$ candies were distributed among seven people in this way, then how many candies would have been left over?",
+    "answer": "2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.75
+  },
+  {
+    "question_id": "f31c427c36d0",
+    "problem": "A line has equation $y=mx-50$ for some positive integer $m$. The line passes through the point $(a, 0)$ for some positive integer $a$. What is the sum of all possible values of $m$?",
+    "answer": "93",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.734375
+  },
+  {
+    "question_id": "bfbe43f0e052",
+    "problem": "How many integers are greater than $\\sqrt{15}$ and less than $\\sqrt{50}$?",
+    "answer": "4",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.734375
+  },
+  {
+    "question_id": "2c812ae1bc0c",
+    "problem": "A positive number is increased by $60\\%$. By what percentage should the result be decreased to return to the original value?",
+    "answer": "37.5\\%",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.734375
+  },
+  {
+    "question_id": "85a85cf23d15",
+    "problem": "How many perfect squares divide $10^{10}$?",
+    "answer": "36",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Other"
+    ],
+    "llama8b_solve_rate": 0.71875
+  },
+  {
+    "question_id": "5aca4de1f802",
+    "problem": "How many of the positive divisors of 128 are perfect squares larger than 1?",
+    "answer": "3",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Factorization"
+    ],
+    "llama8b_solve_rate": 0.71875
+  },
+  {
+    "question_id": "1143db18355a",
+    "problem": "Two reals \\( x \\) and \\( y \\) are such that \\( x-y=4 \\) and \\( x^{3}-y^{3}=28 \\). Compute \\( x y \\).",
+    "answer": "-3",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.703125
+  },
+  {
+    "question_id": "ac9ffea90714",
+    "problem": "Suppose $a, b$, and $c$ are complex numbers satisfying $$\\begin{aligned} a^{2} & =b-c \\\\ b^{2} & =c-a, \\text { and } \\\\ c^{2} & =a-b \\end{aligned}$$ Compute all possible values of $a+b+c$.",
+    "answer": "0, \\pm i \\sqrt{6}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Abstract Algebra -> Other"
+    ],
+    "llama8b_solve_rate": 0.703125
+  },
+  {
+    "question_id": "ce2b6aac4a14",
+    "problem": "If $a$ and $b$ are two distinct numbers with $\\frac{a+b}{a-b}=3$, what is the value of $\\frac{a}{b}$?",
+    "answer": "2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.703125
+  },
+  {
+    "question_id": "1fefd36c636d",
+    "problem": "The operation $a \\nabla b$ is defined by $a \\nabla b=\\frac{a+b}{a-b}$ for all integers $a$ and $b$ with $a \\neq b$. If $3 \\nabla b=-4$, what is the value of $b$?",
+    "answer": "5",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.703125
+  },
+  {
+    "question_id": "5c922a3a334e",
+    "problem": "The integers \\(a, b,\\) and \\(c\\) satisfy the equations \\(a + 5 = b\\), \\(5 + b = c\\), and \\(b + c = a\\). What is the value of \\(b\\)?",
+    "answer": "-10",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.703125
+  },
+  {
+    "question_id": "5c1a80d29925",
+    "problem": "In a school fundraising campaign, $25\\%$ of the money donated came from parents. The rest of the money was donated by teachers and students. The ratio of the amount of money donated by teachers to the amount donated by students was $2:3$. What is the ratio of the amount of money donated by parents to the amount donated by students?",
+    "answer": "5:9",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.703125
+  },
+  {
+    "question_id": "3ac44b4f0e33",
+    "problem": "Jitka hiked a trail. After hiking 60% of the length of the trail, she had 8 km left to go. What is the length of the trail?",
+    "answer": "20 \\text{ km}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.6875
+  },
+  {
+    "question_id": "1abb9c369bdb",
+    "problem": "If $y=1$ and $4x-2y+3=3x+3y$, what is the value of $x$?",
+    "answer": "2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Simple Equations"
+    ],
+    "llama8b_solve_rate": 0.6875
+  },
+  {
+    "question_id": "81cdc5c39160",
+    "problem": "Suppose that a polynomial of the form $p(x)=x^{2010} \\pm x^{2009} \\pm \\cdots \\pm x \\pm 1$ has no real roots. What is the maximum possible number of coefficients of -1 in $p$?",
+    "answer": "1005",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Polynomial Operations -> Other"
+    ],
+    "llama8b_solve_rate": 0.671875
+  },
+  {
+    "question_id": "af0c30f07326",
+    "problem": "There exists a positive real number $x$ such that $\\cos (\\tan^{-1}(x))=x$. Find the value of $x^{2}$.",
+    "answer": "(-1+\\sqrt{5})/2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Precalculus -> Trigonometric Functions"
+    ],
+    "llama8b_solve_rate": 0.671875
+  },
+  {
+    "question_id": "9c836b9c5073",
+    "problem": "Let $x$ be a real number such that $2^{x}=3$. Determine the value of $4^{3 x+2}$.",
+    "answer": "11664",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Intermediate Algebra -> Exponential Functions"
+    ],
+    "llama8b_solve_rate": 0.671875
+  },
+  {
+    "question_id": "adef86b4248a",
+    "problem": "Chris received a mark of $50 \\%$ on a recent test. Chris answered 13 of the first 20 questions correctly. Chris also answered $25 \\%$ of the remaining questions on the test correctly. If each question on the test was worth one mark, how many questions in total were on the test?",
+    "answer": "32",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.671875
+  },
+  {
+    "question_id": "898bcc9c49ec",
+    "problem": "If $x = 2y$ and $y \\neq 0$, what is the value of $(x-y)(2x+y)$?",
+    "answer": "5y^{2}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Algebraic Expressions"
+    ],
+    "llama8b_solve_rate": 0.671875
+  },
+  {
+    "question_id": "b64918234cf2",
+    "problem": "If $2 \\times 2 \\times 3 \\times 3 \\times 5 \\times 6=5 \\times 6 \\times n \\times n$, what is a possible value of $n$?",
+    "answer": "6",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.65625
+  },
+  {
+    "question_id": "ec7c055bd0fb",
+    "problem": "How many of the 20 perfect squares $1^{2}, 2^{2}, 3^{2}, \\ldots, 19^{2}, 20^{2}$ are divisible by 9?",
+    "answer": "6",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Other"
+    ],
+    "llama8b_solve_rate": 0.65625
+  },
+  {
+    "question_id": "88aefee74f7b",
+    "problem": "The gas tank in Catherine's car is $\\frac{1}{8}$ full. When 30 litres of gas are added, the tank becomes $\\frac{3}{4}$ full. If the gas costs Catherine $\\$ 1.38$ per litre, how much will it cost her to fill the remaining quarter of the tank?",
+    "answer": "\\$16.56",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.65625
+  },
+  {
+    "question_id": "7121c3ba7a45",
+    "problem": "A square can be divided into four congruent figures as shown: If each of the congruent figures has area 1, what is the area of the square?",
+    "answer": "4",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "llama8b_solve_rate": 0.640625
+  },
+  {
+    "question_id": "d559bd0b6b8b",
+    "problem": "Two standard six-sided dice are rolled. What is the probability that the product of the two numbers rolled is 12?",
+    "answer": "\\frac{4}{36}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability"
+    ],
+    "llama8b_solve_rate": 0.640625
+  },
+  {
+    "question_id": "65f263ff7eb7",
+    "problem": "The line with equation $y = x$ is translated 3 units to the right and 2 units down. What is the $y$-intercept of the resulting line?",
+    "answer": "-5",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Plane Geometry -> Other"
+    ],
+    "llama8b_solve_rate": 0.640625
+  },
+  {
+    "question_id": "072e72927556",
+    "problem": "In Rad's garden there are exactly 30 red roses, exactly 19 yellow roses, and no other roses. How many of the yellow roses does Rad need to remove so that $\\frac{2}{7}$ of the roses in the garden are yellow?",
+    "answer": "7",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.640625
+  },
+  {
+    "question_id": "77565a555651",
+    "problem": "What is the ratio of the area of square $WXYZ$ to the area of square $PQRS$ if $PQRS$ has side length 2 and $W, X, Y, Z$ are the midpoints of the sides of $PQRS$?",
+    "answer": "1: 2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Geometry -> Plane Geometry -> Area"
+    ],
+    "llama8b_solve_rate": 0.625
+  },
+  {
+    "question_id": "790b233969ff",
+    "problem": "If $x + 2y = 30$, what is the value of $\\frac{x}{5} + \\frac{2y}{3} + \\frac{2y}{5} + \\frac{x}{3}$?",
+    "answer": "16",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.625
+  },
+  {
+    "question_id": "f8365c55a080",
+    "problem": "Let $a, b, c, n$ be positive real numbers such that $\\frac{a+b}{a}=3, \\frac{b+c}{b}=4$, and $\\frac{c+a}{c}=n$. Find $n$.",
+    "answer": "\\frac{7}{6}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.609375
+  },
+  {
+    "question_id": "140f629fd748",
+    "problem": "Each of the four digits of the integer 2024 is even. How many integers between 1000 and 9999, inclusive, have the property that all four of their digits are even?",
+    "answer": "500",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Probability -> Counting Methods -> Combinations"
+    ],
+    "llama8b_solve_rate": 0.609375
+  },
+  {
+    "question_id": "9ada951b8a89",
+    "problem": "How many integers are greater than $\frac{5}{7}$ and less than $\frac{28}{3}$?",
+    "answer": "9",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.609375
+  },
+  {
+    "question_id": "de1d447aae47",
+    "problem": "For a sequence $x_1,x_2,\\ldots,x_n$ of real numbers, we define its $\\textit{price}$ as \\[\\max_{1\\le i\\le n}|x_1+\\cdots +x_i|.\\] Given $n$ real numbers, Dave and George want to arrange them into a sequence with a low price. Diligent Dave checks all possible ways and finds the minimum possible price $D$. Greedy George, on the other hand, chooses $x_1$ such that $|x_1 |$ is as small as possible; among the remaining numbers, he chooses $x_2$ such that $|x_1 + x_2 |$ is as small as possible, and so on. Thus, in the $i$-th step he chooses $x_i$ among the remaining numbers so as to minimise the value of $|x_1 + x_2 + \\cdots  x_i |$. In each step, if several numbers provide the same value, George chooses one at random. Finally he gets a sequence with price $G$. \n\nFind the least possible constant $c$ such that for every positive integer $n$, for every collection of $n$ real numbers, and for every possible sequence that George might obtain, the resulting values satisfy the inequality $G\\le cD$.",
+    "answer": "c=2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Discrete Mathematics -> Algorithms"
+    ],
+    "llama8b_solve_rate": 0.609375
+  },
+  {
+    "question_id": "bc605499dbc7",
+    "problem": "$\\mathbf{7 3 8 , 8 2 6}$. This can be arrived at by stepping down, starting with finding how many combinations are there that begin with a letter other than V or W , and so forth. The answer is $\\frac{8 \\cdot 9!}{2 \\cdot 2}+\\frac{4 \\cdot 7!}{2}+4 \\cdot 6!+4 \\cdot 4!+3!+2!+2!=738826$.",
+    "answer": "738826",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Statistics -> Probability -> Counting Methods -> Combinations"
+    ],
+    "llama8b_solve_rate": 0.59375
+  },
+  {
+    "question_id": "6e66d859197f",
+    "problem": "Suppose that $x$ and $y$ are real numbers that satisfy the two equations $3x+2y=6$ and $9x^2+4y^2=468$. What is the value of $xy$?",
+    "answer": "-36",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.59375
+  },
+  {
+    "question_id": "ef3b6f3dcde8",
+    "problem": "A group of friends are sharing a bag of candy. On the first day, they eat $\frac{1}{2}$ of the candies in the bag. On the second day, they eat $\frac{2}{3}$ of the remaining candies. On the third day, they eat $\frac{3}{4}$ of the remaining candies. On the fourth day, they eat $\frac{4}{5}$ of the remaining candies. On the fifth day, they eat $\frac{5}{6}$ of the remaining candies. At the end of the fifth day, there is 1 candy remaining in the bag. How many candies were in the bag before the first day?",
+    "answer": "720",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.59375
+  },
+  {
+    "question_id": "46423bf32980",
+    "problem": "A sign has 31 spaces on a single line. The word RHOMBUS is written from left to right in 7 consecutive spaces. There is an equal number of empty spaces on each side of the word. Counting from the left, in what space number should the letter $R$ be put?",
+    "answer": "13",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.59375
+  },
+  {
+    "question_id": "30d7c035cc06",
+    "problem": "A root of unity is a complex number that is a solution to $z^{n}=1$ for some positive integer $n$. Determine the number of roots of unity that are also roots of $z^{2}+a z+b=0$ for some integers $a$ and $b$.",
+    "answer": "8",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Other"
+    ],
+    "llama8b_solve_rate": 0.578125
+  },
+  {
+    "question_id": "c8f276935917",
+    "problem": "What is the 7th oblong number?",
+    "answer": "56",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Number Theory -> Other"
+    ],
+    "llama8b_solve_rate": 0.578125
+  },
+  {
+    "question_id": "095f3c6ae5b0",
+    "problem": "There are real numbers $a$ and $b$ for which the function $f$ has the properties that $f(x) = ax + b$ for all real numbers $x$, and $f(bx + a) = x$ for all real numbers $x$. What is the value of $a+b$?",
+    "answer": "-2",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities -> Other"
+    ],
+    "llama8b_solve_rate": 0.578125
+  },
+  {
+    "question_id": "6abbedd14ae0",
+    "problem": "What was the range of temperatures on Monday in Fermatville, given that the minimum temperature was $-11^{\\circ} \\mathrm{C}$ and the maximum temperature was $14^{\\circ} \\mathrm{C}$?",
+    "answer": "25^{\\circ} \\mathrm{C}",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Applied Mathematics -> Math Word Problems"
+    ],
+    "llama8b_solve_rate": 0.578125
+  },
+  {
+    "question_id": "f6c3114602ad",
+    "problem": "Define a sequence $\\left\\{a_{n}\\right\\}$ by $a_{1}=1$ and $a_{n}=\\left(a_{n-1}\\right)!+1$ for every $n>1$. Find the least $n$ for which $a_{n}>10^{10}$.",
+    "answer": "6",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Sequences and Series"
+    ],
+    "llama8b_solve_rate": 0.5625
+  },
+  {
+    "question_id": "d604649e3311",
+    "problem": "If \\( x \\) and \\( y \\) are positive integers with \\( x>y \\) and \\( x+x y=391 \\), what is the value of \\( x+y \\)?",
+    "answer": "39",
+    "source": "omnimath",
+    "domain": [
+      "Mathematics -> Algebra -> Equations and Inequalities"
+    ],
+    "llama8b_solve_rate": 0.5625
+  }
+]

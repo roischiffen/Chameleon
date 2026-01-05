@@ -1,0 +1,1564 @@
+================================================================================
+EMPTY ANSWERS AFTER RETRY REPORT
+================================================================================
+
+SUMMARY
+Total empty answers: 515
+Token limit issues: 515
+Other empty: 0
+Unique questions with empty answers: 79
+
+================================================================================
+BY MODEL
+================================================================================
+
+gpt-5:
+  Empty: 0
+  Token limit: 296
+
+gpt-5-mini:
+  Empty: 0
+  Token limit: 219
+
+================================================================================
+BY QUESTION (QUESTIONS WITH EMPTY ANSWERS)
+================================================================================
+
+Question: cat1_q_30d7c035cc06_miu
+  Category: 1
+  Question ID: 30d7c035cc06_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+
+Question: cat1_q_607724e7f7ba_miu
+  Category: 1
+  Question ID: 607724e7f7ba_miu
+  Models affected: gpt-5, gpt-5-mini
+  Distorted versions empty:
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat1_q_790b233969ff_miu
+  Category: 1
+  Question ID: 790b233969ff_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+
+Question: cat1_q_81cdc5c39160_miu
+  Category: 1
+  Question ID: 81cdc5c39160_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat1_q_ac9ffea90714_miu
+  Category: 1
+  Question ID: ac9ffea90714_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat1_q_de1d447aae47_miu
+  Category: 1
+  Question ID: de1d447aae47_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_02fb10ca7ebb_miu
+  Category: 2
+  Question ID: 02fb10ca7ebb_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_08d056f253ac_miu
+  Category: 2
+  Question ID: 08d056f253ac_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_10a65b3d22a1_miu
+  Category: 2
+  Question ID: 10a65b3d22a1_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_13124d8a98a9_miu
+  Category: 2
+  Question ID: 13124d8a98a9_miu
+  Models affected: gpt-5
+  Baseline (MIU 0.0): EMPTY
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_1673c846ec03_miu
+  Category: 2
+  Question ID: 1673c846ec03_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_1a0d8bb9cec3_miu
+  Category: 2
+  Question ID: 1a0d8bb9cec3_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_28fd76942fc5_miu
+  Category: 2
+  Question ID: 28fd76942fc5_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_3b2f040019bf_miu
+  Category: 2
+  Question ID: 3b2f040019bf_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_459b83dc6f9a_miu
+  Category: 2
+  Question ID: 459b83dc6f9a_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_48d4c41e1f21_miu
+  Category: 2
+  Question ID: 48d4c41e1f21_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.7 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_53401a1de227_miu
+  Category: 2
+  Question ID: 53401a1de227_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_55b09d888477_miu
+  Category: 2
+  Question ID: 55b09d888477_miu
+  Models affected: gpt-5, gpt-5-mini
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_60d03456ebad_miu
+  Category: 2
+  Question ID: 60d03456ebad_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_64d595ba9a32_miu
+  Category: 2
+  Question ID: 64d595ba9a32_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_69a45220b895_miu
+  Category: 2
+  Question ID: 69a45220b895_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_7153dff86e93_miu
+  Category: 2
+  Question ID: 7153dff86e93_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_78a71de111ba_miu
+  Category: 2
+  Question ID: 78a71de111ba_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_7dd2b07fb6a5_miu
+  Category: 2
+  Question ID: 7dd2b07fb6a5_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_7f48eb40717d_miu
+  Category: 2
+  Question ID: 7f48eb40717d_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_8f2292d61a7c_miu
+  Category: 2
+  Question ID: 8f2292d61a7c_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_a2d63f367cf2_miu
+  Category: 2
+  Question ID: a2d63f367cf2_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_acb60607be25_miu
+  Category: 2
+  Question ID: acb60607be25_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_b81a8363fdb2_miu
+  Category: 2
+  Question ID: b81a8363fdb2_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_c9de10df4d9b_miu
+  Category: 2
+  Question ID: c9de10df4d9b_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_cd377c1bdc59_miu
+  Category: 2
+  Question ID: cd377c1bdc59_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat2_q_d7197019328f_miu
+  Category: 2
+  Question ID: d7197019328f_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.7 (gpt-5): 1500 tokens reached
+
+Question: cat2_q_fe4b39036bf2_miu
+  Category: 2
+  Question ID: fe4b39036bf2_miu
+  Models affected: gpt-5
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_03b44ec63051_miu
+  Category: 3
+  Question ID: 03b44ec63051_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_13b9cadf7331_miu
+  Category: 3
+  Question ID: 13b9cadf7331_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_179cb66502b2_miu
+  Category: 3
+  Question ID: 179cb66502b2_miu
+  Models affected: gpt-5-mini
+  Distorted versions empty:
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_24d620821ab2_miu
+  Category: 3
+  Question ID: 24d620821ab2_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_28ced0289fc2_miu
+  Category: 3
+  Question ID: 28ced0289fc2_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_3e4c4a2d6e6d_miu
+  Category: 3
+  Question ID: 3e4c4a2d6e6d_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_3f2eace1a489_miu
+  Category: 3
+  Question ID: 3f2eace1a489_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_419edd237873_miu
+  Category: 3
+  Question ID: 419edd237873_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_4824ab998349_miu
+  Category: 3
+  Question ID: 4824ab998349_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_48f4535152b0_miu
+  Category: 3
+  Question ID: 48f4535152b0_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_4921aea8656b_miu
+  Category: 3
+  Question ID: 4921aea8656b_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_4d3979b0bfe1_miu
+  Category: 3
+  Question ID: 4d3979b0bfe1_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_5062ff35ca15_miu
+  Category: 3
+  Question ID: 5062ff35ca15_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_5bb2f4d8f4a5_miu
+  Category: 3
+  Question ID: 5bb2f4d8f4a5_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_604f24e329b9_miu
+  Category: 3
+  Question ID: 604f24e329b9_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_62bef35d1cf4_miu
+  Category: 3
+  Question ID: 62bef35d1cf4_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_69a9bffc4e5a_miu
+  Category: 3
+  Question ID: 69a9bffc4e5a_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_6ccc4ceb2bb8_miu
+  Category: 3
+  Question ID: 6ccc4ceb2bb8_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_71a809c280a6_miu
+  Category: 3
+  Question ID: 71a809c280a6_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_72a2fdc55ae1_miu
+  Category: 3
+  Question ID: 72a2fdc55ae1_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_78a825a6aab4_miu
+  Category: 3
+  Question ID: 78a825a6aab4_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_799fa1d82162_miu
+  Category: 3
+  Question ID: 799fa1d82162_miu
+  Models affected: gpt-5
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_7f9f9f3f01c2_miu
+  Category: 3
+  Question ID: 7f9f9f3f01c2_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_8555d30d849f_miu
+  Category: 3
+  Question ID: 8555d30d849f_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_86f4110d6a69_miu
+  Category: 3
+  Question ID: 86f4110d6a69_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_9edaf1b28236_miu
+  Category: 3
+  Question ID: 9edaf1b28236_miu
+  Models affected: gpt-5, gpt-5-mini
+  Distorted versions empty:
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_a3b11140e09d_miu
+  Category: 3
+  Question ID: a3b11140e09d_miu
+  Models affected: gpt-5-mini
+  Distorted versions empty:
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_a61228a81a75_miu
+  Category: 3
+  Question ID: a61228a81a75_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_a72f50499200_miu
+  Category: 3
+  Question ID: a72f50499200_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_acbd00e46024_miu
+  Category: 3
+  Question ID: acbd00e46024_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_bf1a94972a8b_miu
+  Category: 3
+  Question ID: bf1a94972a8b_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_c004d7ae81cf_miu
+  Category: 3
+  Question ID: c004d7ae81cf_miu
+  Models affected: gpt-5, gpt-5-mini
+  Distorted versions empty:
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_c46a620111e1_miu
+  Category: 3
+  Question ID: c46a620111e1_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_c816937ea674_miu
+  Category: 3
+  Question ID: c816937ea674_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_ce86163243ac_miu
+  Category: 3
+  Question ID: ce86163243ac_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_cfbf1b58a8cb_miu
+  Category: 3
+  Question ID: cfbf1b58a8cb_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_d359970345e4_miu
+  Category: 3
+  Question ID: d359970345e4_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_d37d3b0925a4_miu
+  Category: 3
+  Question ID: d37d3b0925a4_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_d743d4b7cc6c_miu
+  Category: 3
+  Question ID: d743d4b7cc6c_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_e5c6d121469e_miu
+  Category: 3
+  Question ID: e5c6d121469e_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_eaa72803bac2_miu
+  Category: 3
+  Question ID: eaa72803bac2_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_ed82858e6d5a_miu
+  Category: 3
+  Question ID: ed82858e6d5a_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_efabe79b7050_miu
+  Category: 3
+  Question ID: efabe79b7050_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_f23852fca95e_miu
+  Category: 3
+  Question ID: f23852fca95e_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+    MIU 0.9 (gpt-5-mini): 1500 tokens reached
+
+Question: cat3_q_f255a4023afb_miu
+  Category: 3
+  Question ID: f255a4023afb_miu
+  Models affected: gpt-5
+  Distorted versions empty:
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.9 (gpt-5): 1500 tokens reached
+
+Question: cat3_q_f3c7404f0a13_miu
+  Category: 3
+  Question ID: f3c7404f0a13_miu
+  Models affected: gpt-5, gpt-5-mini
+  Baseline (MIU 0.0): EMPTY
+  Distorted versions empty:
+    MIU 0.2 (gpt-5): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5): token_limit - 1500 tokens
+    MIU 0.9 (gpt-5): token_limit - 1500 tokens
+    MIU 0.2 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.5 (gpt-5-mini): token_limit - 1500 tokens
+    MIU 0.7 (gpt-5-mini): token_limit - 1500 tokens
+  Token limit issues:
+    MIU 0.0 (gpt-5): 1500 tokens reached
+    MIU 0.2 (gpt-5): 1500 tokens reached
+    MIU 0.5 (gpt-5): 1500 tokens reached
+    MIU 0.7 (gpt-5): 1500 tokens reached
+    MIU 0.9 (gpt-5): 1500 tokens reached
+    MIU 0.0 (gpt-5-mini): 1500 tokens reached
+    MIU 0.2 (gpt-5-mini): 1500 tokens reached
+    MIU 0.5 (gpt-5-mini): 1500 tokens reached
+    MIU 0.7 (gpt-5-mini): 1500 tokens reached
+

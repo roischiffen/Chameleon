@@ -1,0 +1,445 @@
+================================================================================
+DETAILED VALIDATION REPORT
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Questions: 300
+Questions with MIU Levels: 300
+
+Baseline Results Coverage:
+  gpt-4_1: 300/300 (100.0%)
+  gpt-5: 300/300 (100.0%)
+  gpt-5-mini: 300/300 (100.0%)
+
+
+================================================================================
+CATEGORY 1
+================================================================================
+
+Total Questions: 100
+Fully Validated: 100
+Invalid/Missing: 0
+
+Sample Questions (first 10):
+--------------------------------------------------------------------------------
+
+Question 1: 035b93a3d1b8
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 2: 072e72927556
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 3: 095f3c6ae5b0
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 4: 0a9ba67a4ede
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 5: 0b16c12763ec
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 6: 1143db18355a
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 7: 140f629fd748
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 8: 1abb9c369bdb
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 9: 1b93debfae02
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 10: 1ddf45fdbbab
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+... and 90 more questions
+
+================================================================================
+CATEGORY 2
+================================================================================
+
+Total Questions: 100
+Fully Validated: 100
+Invalid/Missing: 0
+
+Sample Questions (first 10):
+--------------------------------------------------------------------------------
+
+Question 1: 01a683ecd7df
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 2: 01dbb476fb1d
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 3: 02fb10ca7ebb
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 4: 05738a40d7a1
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 5: 077a9fdaad5e
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 6: 08d056f253ac
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 7: 0b379153b28c
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 8: 0c0aa9b1a3b7
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 9: 0df509cb1299
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 10: 0e0ef101a3a4
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+... and 90 more questions
+
+================================================================================
+CATEGORY 3
+================================================================================
+
+Total Questions: 100
+Fully Validated: 100
+Invalid/Missing: 0
+
+Sample Questions (first 10):
+--------------------------------------------------------------------------------
+
+Question 1: 03b44ec63051
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 2: 05f3e85d3431
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 3: 0610f08cc6f1
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 4: 0640f21a5ee7
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 5: 1381bf43281a
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 6: 13b9cadf7331
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 7: 16250b369ecf
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 8: 1716c7593ca3
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 9: 179cb66502b2
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+Question 10: 1d1be7d34f2c
+  MIU Levels: 0.2, 0.5, 0.7, 0.9
+  Has All MIU Levels: ✓
+  Baseline Results:
+    gpt-4_1: ✓ Present
+    gpt-5: ✓ Present
+    gpt-5-mini: ✓ Present
+  Overall Status: valid
+
+... and 90 more questions
+
+================================================================================
+WARNINGS (117)
+================================================================================
+
+Category 1, QID ac9ffea90714: Baseline result for model gpt-5 has no answer content
+Category 1, QID ac9ffea90714: Baseline result for model gpt-5-mini has no answer content
+Category 1, QID 81cdc5c39160: Baseline result for model gpt-5 has no answer content
+Category 1, QID 81cdc5c39160: Baseline result for model gpt-5-mini has no answer content
+Category 1, QID de1d447aae47: Baseline result for model gpt-5 has no answer content
+Category 1, QID 30d7c035cc06: Baseline result for model gpt-5 has no answer content
+Category 2, QID fe4b39036bf2: Baseline result for model gpt-5 has no answer content
+Category 2, QID 95930bcd8794: Baseline result for model gpt-5 has no answer content
+Category 2, QID d7197019328f: Baseline result for model gpt-5 has no answer content
+Category 2, QID d7197019328f: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 10a65b3d22a1: Baseline result for model gpt-5 has no answer content
+Category 2, QID 10a65b3d22a1: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 13124d8a98a9: Baseline result for model gpt-5 has no answer content
+Category 2, QID 13124d8a98a9: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 7f48eb40717d: Baseline result for model gpt-5 has no answer content
+Category 2, QID 7f48eb40717d: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID acb60607be25: Baseline result for model gpt-5 has no answer content
+Category 2, QID 73dbbd0fa393: Baseline result for model gpt-5 has no answer content
+Category 2, QID 459b83dc6f9a: Baseline result for model gpt-5 has no answer content
+Category 2, QID 459b83dc6f9a: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 3b2f040019bf: Baseline result for model gpt-5 has no answer content
+Category 2, QID 7dd2b07fb6a5: Baseline result for model gpt-5 has no answer content
+Category 2, QID 7dd2b07fb6a5: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 08d056f253ac: Baseline result for model gpt-5 has no answer content
+Category 2, QID 08d056f253ac: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 60d03456ebad: Baseline result for model gpt-5 has no answer content
+Category 2, QID f18d6c3b74ab: Baseline result for model gpt-5 has no answer content
+Category 2, QID b81a8363fdb2: Baseline result for model gpt-5 has no answer content
+Category 2, QID b81a8363fdb2: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 28fd76942fc5: Baseline result for model gpt-5 has no answer content
+Category 2, QID 28fd76942fc5: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 64d595ba9a32: Baseline result for model gpt-5 has no answer content
+Category 2, QID 64d595ba9a32: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID 17b1ae2ddb6c: Baseline result for model gpt-5 has no answer content
+Category 2, QID cd377c1bdc59: Baseline result for model gpt-5 has no answer content
+Category 2, QID cd377c1bdc59: Baseline result for model gpt-5-mini has no answer content
+Category 2, QID a2d63f367cf2: Baseline result for model gpt-5 has no answer content
+Category 2, QID a2d63f367cf2: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID f3c7404f0a13: Baseline result for model gpt-5 has no answer content
+Category 3, QID f3c7404f0a13: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID c46a620111e1: Baseline result for model gpt-5 has no answer content
+Category 3, QID c46a620111e1: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID d37d3b0925a4: Baseline result for model gpt-5 has no answer content
+Category 3, QID d37d3b0925a4: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID a61228a81a75: Baseline result for model gpt-5 has no answer content
+Category 3, QID a61228a81a75: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 78a825a6aab4: Baseline result for model gpt-5 has no answer content
+Category 3, QID 78a825a6aab4: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 7f9f9f3f01c2: Baseline result for model gpt-5 has no answer content
+Category 3, QID 7f9f9f3f01c2: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 3c961e4a0f9e: Baseline result for model gpt-5 has no answer content
+Category 3, QID 3c961e4a0f9e: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 419edd237873: Baseline result for model gpt-5 has no answer content
+Category 3, QID 419edd237873: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 6ccc4ceb2bb8: Baseline result for model gpt-5 has no answer content
+Category 3, QID 6ccc4ceb2bb8: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 8555d30d849f: Baseline result for model gpt-5 has no answer content
+Category 3, QID 8555d30d849f: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 5062ff35ca15: Baseline result for model gpt-5 has no answer content
+Category 3, QID 5062ff35ca15: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 62bef35d1cf4: Baseline result for model gpt-5 has no answer content
+Category 3, QID 62bef35d1cf4: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 799fa1d82162: Baseline result for model gpt-5 has no answer content
+Category 3, QID 4921aea8656b: Baseline result for model gpt-5 has no answer content
+Category 3, QID acbd00e46024: Baseline result for model gpt-5 has no answer content
+Category 3, QID 86f4110d6a69: Baseline result for model gpt-5 has no answer content
+Category 3, QID 86f4110d6a69: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID a3b11140e09d: Baseline result for model gpt-5 has no answer content
+Category 3, QID a3b11140e09d: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID b75fd08116b0: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 69a9bffc4e5a: Baseline result for model gpt-5 has no answer content
+Category 3, QID 69a9bffc4e5a: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 3a4633d74ea8: Baseline result for model gpt-5 has no answer content
+Category 3, QID 55a29aec71d0: Baseline result for model gpt-5 has no answer content
+Category 3, QID 03b44ec63051: Baseline result for model gpt-5 has no answer content
+Category 3, QID bf1a94972a8b: Baseline result for model gpt-5 has no answer content
+Category 3, QID bf1a94972a8b: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 3e4c4a2d6e6d: Baseline result for model gpt-5 has no answer content
+Category 3, QID 3e4c4a2d6e6d: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID a72f50499200: Baseline result for model gpt-5 has no answer content
+Category 3, QID a72f50499200: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID c816937ea674: Baseline result for model gpt-5 has no answer content
+Category 3, QID c816937ea674: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID d359970345e4: Baseline result for model gpt-5 has no answer content
+Category 3, QID d359970345e4: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID d743d4b7cc6c: Baseline result for model gpt-5 has no answer content
+Category 3, QID d743d4b7cc6c: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID e5c6d121469e: Baseline result for model gpt-5 has no answer content
+Category 3, QID e5c6d121469e: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 13b9cadf7331: Baseline result for model gpt-5 has no answer content
+Category 3, QID 13b9cadf7331: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 604f24e329b9: Baseline result for model gpt-5 has no answer content
+Category 3, QID 604f24e329b9: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 5cbc72f71d0d: Baseline result for model gpt-5 has no answer content
+Category 3, QID ce86163243ac: Baseline result for model gpt-5 has no answer content
+Category 3, QID ce86163243ac: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID f23852fca95e: Baseline result for model gpt-5 has no answer content
+Category 3, QID f23852fca95e: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 50b5e52d5ef9: Baseline result for model gpt-5 has no answer content
+Category 3, QID efabe79b7050: Baseline result for model gpt-5 has no answer content
+Category 3, QID efabe79b7050: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID cfbf1b58a8cb: Baseline result for model gpt-5 has no answer content
+Category 3, QID cfbf1b58a8cb: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID eaa72803bac2: Baseline result for model gpt-5 has no answer content
+Category 3, QID eaa72803bac2: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 4d3979b0bfe1: Baseline result for model gpt-5 has no answer content
+Category 3, QID 4d3979b0bfe1: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 5bb2f4d8f4a5: Baseline result for model gpt-5 has no answer content
+Category 3, QID 5bb2f4d8f4a5: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 71a809c280a6: Baseline result for model gpt-5 has no answer content
+Category 3, QID 71a809c280a6: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 4824ab998349: Baseline result for model gpt-5 has no answer content
+Category 3, QID 4824ab998349: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID ed82858e6d5a: Baseline result for model gpt-5 has no answer content
+Category 3, QID ed82858e6d5a: Baseline result for model gpt-5-mini has no answer content
+Category 3, QID 24d620821ab2: Baseline result for model gpt-5 has no answer content
+Category 3, QID 24d620821ab2: Baseline result for model gpt-5-mini has no answer content

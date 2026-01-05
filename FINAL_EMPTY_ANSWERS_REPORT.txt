@@ -1,0 +1,862 @@
+QUESTIONS THAT RETURNED EMPTY AFTER 3000 TOKEN RETRY
+
+Total empty answers: 515
+All empty answers are due to token limit being reached (3000 tokens)
+Unique questions with empty answers: 79
+
+================================================================================
+
+QUESTIONS WITH EMPTY ANSWERS AND TOKEN LIMIT REACHED:
+
+Question: cat1_q_30d7c035cc06
+Category: 1
+Question ID: 30d7c035cc06
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: This question requires extensive reasoning that exceeds 3000 tokens across all MIU levels for gpt-5, and at MIU 0.5 for gpt-5-mini. The baseline version also hits the limit for gpt-5.
+
+Question: cat1_q_607724e7f7ba
+Category: 1
+Question ID: 607724e7f7ba
+Models affected: gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Higher distortion levels (0.5, 0.7, 0.9) cause the model to exceed 3000 tokens. The baseline and lower distortion levels (0.0, 0.2) are successful.
+
+Question: cat1_q_790b233969ff
+Category: 1
+Question ID: 790b233969ff
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only the MIU 0.5 distorted version hits the token limit. Other MIU levels (0.0, 0.2, 0.7, 0.9) are successful.
+
+Question: cat1_q_81cdc5c39160
+Category: 1
+Question ID: 81cdc5c39160
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: This question consistently hits the 3000 token limit across all MIU levels for both models. The baseline and all distorted versions require reasoning that exceeds the limit.
+
+Question: cat1_q_ac9ffea90714
+Category: 1
+Question ID: ac9ffea90714
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions of this question (baseline and all distortion levels) hit the 3000 token limit for both models. This indicates the question inherently requires extensive reasoning regardless of formulation.
+
+Question: cat1_q_de1d447aae47
+Category: 1
+Question ID: de1d447aae47
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: The baseline and most distorted versions hit the 3000 token limit. Only MIU 0.7 for gpt-5-mini is successful.
+
+Question: cat2_q_02fb10ca7ebb
+Category: 2
+Question ID: 02fb10ca7ebb
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only the highest distortion level (0.9) hits the token limit. Lower distortion levels are successful.
+
+Question: cat2_q_08d056f253ac
+Category: 2
+Question ID: 08d056f253ac
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: The baseline hits the limit for both models. All distorted versions hit the limit for gpt-5, but gpt-5-mini succeeds on distorted versions.
+
+Question: cat2_q_10a65b3d22a1
+Category: 2
+Question ID: 10a65b3d22a1
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions (baseline and all distortion levels) hit the 3000 token limit for both models.
+
+Question: cat2_q_13124d8a98a9
+Category: 2
+Question ID: 13124d8a98a9
+Models affected: gpt-5
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5
+Explanation: Only the baseline version hits the token limit for gpt-5. All distorted versions are successful.
+
+Question: cat2_q_1673c846ec03
+Category: 2
+Question ID: 1673c846ec03
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.5 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_1a0d8bb9cec3
+Category: 2
+Question ID: 1a0d8bb9cec3
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.2 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_28fd76942fc5
+Category: 2
+Question ID: 28fd76942fc5
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat2_q_3b2f040019bf
+Category: 2
+Question ID: 3b2f040019bf
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. All distorted versions hit limit for gpt-5, but gpt-5-mini succeeds on lower distortion levels.
+
+Question: cat2_q_459b83dc6f9a
+Category: 2
+Question ID: 459b83dc6f9a
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat2_q_48d4c41e1f21
+Category: 2
+Question ID: 48d4c41e1f21
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.7 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_53401a1de227
+Category: 2
+Question ID: 53401a1de227
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.2 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_55b09d888477
+Category: 2
+Question ID: 55b09d888477
+Models affected: gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: MIU 0.5 and 0.7 hit the token limit. Lower and higher distortion levels are successful.
+
+Question: cat2_q_60d03456ebad
+Category: 2
+Question ID: 60d03456ebad
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline and some distorted versions hit the limit. MIU 0.7 is successful for both models.
+
+Question: cat2_q_64d595ba9a32
+Category: 2
+Question ID: 64d595ba9a32
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 and 0.7 successful for gpt-5-mini.
+
+Question: cat2_q_69a45220b895
+Category: 2
+Question ID: 69a45220b895
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+Explanation: MIU 0.2 and 0.7 hit the token limit. Other MIU levels are successful.
+
+Question: cat2_q_7153dff86e93
+Category: 2
+Question ID: 7153dff86e93
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.2 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_78a71de111ba
+Category: 2
+Question ID: 78a71de111ba
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.9 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_7dd2b07fb6a5
+Category: 2
+Question ID: 7dd2b07fb6a5
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. All distorted versions hit limit except MIU 0.2 for gpt-5-mini.
+
+Question: cat2_q_7f48eb40717d
+Category: 2
+Question ID: 7f48eb40717d
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Lower distortion levels hit limit, but MIU 0.9 is successful for both models.
+
+Question: cat2_q_8f2292d61a7c
+Category: 2
+Question ID: 8f2292d61a7c
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: MIU 0.5 and 0.9 hit the token limit. Other MIU levels are successful.
+
+Question: cat2_q_a2d63f367cf2
+Category: 2
+Question ID: a2d63f367cf2
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. All distorted versions hit limit for gpt-5, but gpt-5-mini succeeds on lower distortion levels.
+
+Question: cat2_q_acb60607be25
+Category: 2
+Question ID: acb60607be25
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat2_q_b81a8363fdb2
+Category: 2
+Question ID: b81a8363fdb2
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline hits limit for both models. All distorted versions hit limit except MIU 0.9 for gpt-5-mini.
+
+Question: cat2_q_c9de10df4d9b
+Category: 2
+Question ID: c9de10df4d9b
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+Explanation: MIU 0.2 and 0.7 hit the token limit. Other MIU levels are successful.
+
+Question: cat2_q_cd377c1bdc59
+Category: 2
+Question ID: cd377c1bdc59
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat2_q_d7197019328f
+Category: 2
+Question ID: d7197019328f
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.7 hits the token limit. Other MIU levels are successful.
+
+Question: cat2_q_fe4b39036bf2
+Category: 2
+Question ID: fe4b39036bf2
+Models affected: gpt-5
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline and lower distortion levels hit the limit. Higher distortion levels (0.7, 0.9) are successful.
+
+Question: cat3_q_03b44ec63051
+Category: 3
+Question ID: 03b44ec63051
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.2 successful for gpt-5-mini.
+
+Question: cat3_q_13b9cadf7331
+Category: 3
+Question ID: 13b9cadf7331
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_179cb66502b2
+Category: 3
+Question ID: 179cb66502b2
+Models affected: gpt-5-mini
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5-mini
+Explanation: Only MIU 0.5 hits the token limit for gpt-5-mini. Other MIU levels are successful.
+
+Question: cat3_q_24d620821ab2
+Category: 3
+Question ID: 24d620821ab2
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.5 hits the token limit. Other MIU levels are successful.
+
+Question: cat3_q_28ced0289fc2
+Category: 3
+Question ID: 28ced0289fc2
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.5 hits the token limit. Other MIU levels are successful.
+
+Question: cat3_q_3e4c4a2d6e6d
+Category: 3
+Question ID: 3e4c4a2d6e6d
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_3f2eace1a489
+Category: 3
+Question ID: 3f2eace1a489
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: MIU 0.2 and 0.9 hit the token limit. Other MIU levels are successful.
+
+Question: cat3_q_419edd237873
+Category: 3
+Question ID: 419edd237873
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_4824ab998349
+Category: 3
+Question ID: 4824ab998349
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 and 0.7 successful for gpt-5-mini.
+
+Question: cat3_q_48f4535152b0
+Category: 3
+Question ID: 48f4535152b0
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.9 hits the token limit. Other MIU levels are successful.
+
+Question: cat3_q_4921aea8656b
+Category: 3
+Question ID: 4921aea8656b
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.2, 0.7, 0.9 successful for gpt-5-mini.
+
+Question: cat3_q_4d3979b0bfe1
+Category: 3
+Question ID: 4d3979b0bfe1
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_5062ff35ca15
+Category: 3
+Question ID: 5062ff35ca15
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_5bb2f4d8f4a5
+Category: 3
+Question ID: 5bb2f4d8f4a5
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_604f24e329b9
+Category: 3
+Question ID: 604f24e329b9
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5, 0.7, 0.9 successful for gpt-5-mini.
+
+Question: cat3_q_62bef35d1cf4
+Category: 3
+Question ID: 62bef35d1cf4
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_69a9bffc4e5a
+Category: 3
+Question ID: 69a9bffc4e5a
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_6ccc4ceb2bb8
+Category: 3
+Question ID: 6ccc4ceb2bb8
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 and 0.7 successful for gpt-5-mini.
+
+Question: cat3_q_71a809c280a6
+Category: 3
+Question ID: 71a809c280a6
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_72a2fdc55ae1
+Category: 3
+Question ID: 72a2fdc55ae1
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.2 hits the token limit. Other MIU levels are successful.
+
+Question: cat3_q_78a825a6aab4
+Category: 3
+Question ID: 78a825a6aab4
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_799fa1d82162
+Category: 3
+Question ID: 799fa1d82162
+Models affected: gpt-5
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: All versions hit the 3000 token limit for gpt-5. All versions are successful for gpt-5-mini.
+
+Question: cat3_q_7f9f9f3f01c2
+Category: 3
+Question ID: 7f9f9f3f01c2
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_8555d30d849f
+Category: 3
+Question ID: 8555d30d849f
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 successful for gpt-5-mini.
+
+Question: cat3_q_86f4110d6a69
+Category: 3
+Question ID: 86f4110d6a69
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_9edaf1b28236
+Category: 3
+Question ID: 9edaf1b28236
+Models affected: gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: MIU 0.5 and 0.7 hit the token limit. Other MIU levels are successful.
+
+Question: cat3_q_a3b11140e09d
+Category: 3
+Question ID: a3b11140e09d
+Models affected: gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5-mini
+Explanation: MIU 0.2 and 0.9 hit the token limit for gpt-5-mini. All versions are successful for gpt-5.
+
+Question: cat3_q_a61228a81a75
+Category: 3
+Question ID: a61228a81a75
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 and 0.7 successful for gpt-5-mini.
+
+Question: cat3_q_a72f50499200
+Category: 3
+Question ID: a72f50499200
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_acbd00e46024
+Category: 3
+Question ID: acbd00e46024
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.2 successful for gpt-5-mini.
+
+Question: cat3_q_bf1a94972a8b
+Category: 3
+Question ID: bf1a94972a8b
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_c004d7ae81cf
+Category: 3
+Question ID: c004d7ae81cf
+Models affected: gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Only MIU 0.9 hits the token limit. Other MIU levels are successful.
+
+Question: cat3_q_c46a620111e1
+Category: 3
+Question ID: c46a620111e1
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_c816937ea674
+Category: 3
+Question ID: c816937ea674
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_ce86163243ac
+Category: 3
+Question ID: ce86163243ac
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5, 0.7, 0.9 successful for gpt-5-mini.
+
+Question: cat3_q_cfbf1b58a8cb
+Category: 3
+Question ID: cfbf1b58a8cb
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_d359970345e4
+Category: 3
+Question ID: d359970345e4
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.7 successful for gpt-5-mini.
+
+Question: cat3_q_d37d3b0925a4
+Category: 3
+Question ID: d37d3b0925a4
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_d743d4b7cc6c
+Category: 3
+Question ID: d743d4b7cc6c
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 and 0.7 successful for gpt-5-mini.
+
+Question: cat3_q_e5c6d121469e
+Category: 3
+Question ID: e5c6d121469e
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5 and 0.9 successful for gpt-5-mini.
+
+Question: cat3_q_eaa72803bac2
+Category: 3
+Question ID: eaa72803bac2
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5, 0.7, 0.9 successful for gpt-5-mini.
+
+Question: cat3_q_ed82858e6d5a
+Category: 3
+Question ID: ed82858e6d5a
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_efabe79b7050
+Category: 3
+Question ID: efabe79b7050
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_f23852fca95e
+Category: 3
+Question ID: f23852fca95e
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Explanation: All versions hit the 3000 token limit for both models.
+
+Question: cat3_q_f255a4023afb
+Category: 3
+Question ID: f255a4023afb
+Models affected: gpt-5
+Distorted versions empty:
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Only MIU 0.9 hits the token limit. Other MIU levels are successful.
+
+Question: cat3_q_f3c7404f0a13
+Category: 3
+Question ID: f3c7404f0a13
+Models affected: gpt-5, gpt-5-mini
+Baseline (MIU 0.0): EMPTY - Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+Distorted versions empty:
+  MIU 0.2: Token limit reached (3000 tokens) - gpt-5, gpt-5-mini
+  MIU 0.5: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.7: Token limit reached (3000 tokens) - gpt-5
+  MIU 0.9: Token limit reached (3000 tokens) - gpt-5
+Explanation: Baseline hits limit for both models. Most distorted versions hit limit, with MIU 0.5, 0.7, 0.9 successful for gpt-5-mini.
+

@@ -1,0 +1,831 @@
+{
+  "total_flagged": 117,
+  "total_hit_limit": 117,
+  "percentage": 100.0,
+  "by_model": {
+    "gpt-5": 67,
+    "gpt-5-mini": 50,
+    "gpt-4_1": 0
+  },
+  "details": [
+    {
+      "category": 1,
+      "question_id": "ac9ffea90714",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 1,
+      "question_id": "ac9ffea90714",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 1,
+      "question_id": "81cdc5c39160",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 1,
+      "question_id": "81cdc5c39160",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 1,
+      "question_id": "de1d447aae47",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 1,
+      "question_id": "30d7c035cc06",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "fe4b39036bf2",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "95930bcd8794",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "d7197019328f",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "d7197019328f",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "10a65b3d22a1",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "10a65b3d22a1",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "13124d8a98a9",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "13124d8a98a9",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "7f48eb40717d",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "7f48eb40717d",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "acb60607be25",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "73dbbd0fa393",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "459b83dc6f9a",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "459b83dc6f9a",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "3b2f040019bf",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "7dd2b07fb6a5",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "7dd2b07fb6a5",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "08d056f253ac",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "08d056f253ac",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "60d03456ebad",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "f18d6c3b74ab",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "b81a8363fdb2",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "b81a8363fdb2",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "28fd76942fc5",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "28fd76942fc5",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "64d595ba9a32",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "64d595ba9a32",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "17b1ae2ddb6c",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "cd377c1bdc59",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "cd377c1bdc59",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "a2d63f367cf2",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 2,
+      "question_id": "a2d63f367cf2",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "f3c7404f0a13",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "f3c7404f0a13",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "c46a620111e1",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "c46a620111e1",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "d37d3b0925a4",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "d37d3b0925a4",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "a61228a81a75",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "a61228a81a75",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "78a825a6aab4",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "78a825a6aab4",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "7f9f9f3f01c2",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "7f9f9f3f01c2",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "3c961e4a0f9e",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "3c961e4a0f9e",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "419edd237873",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "419edd237873",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "6ccc4ceb2bb8",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "6ccc4ceb2bb8",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "8555d30d849f",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "8555d30d849f",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "5062ff35ca15",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "5062ff35ca15",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "62bef35d1cf4",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "62bef35d1cf4",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "799fa1d82162",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "4921aea8656b",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "acbd00e46024",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "86f4110d6a69",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "86f4110d6a69",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "a3b11140e09d",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "a3b11140e09d",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "b75fd08116b0",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "69a9bffc4e5a",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "69a9bffc4e5a",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "3a4633d74ea8",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "55a29aec71d0",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "03b44ec63051",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "bf1a94972a8b",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "bf1a94972a8b",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "3e4c4a2d6e6d",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "3e4c4a2d6e6d",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "a72f50499200",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "a72f50499200",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "c816937ea674",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "c816937ea674",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "d359970345e4",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "d359970345e4",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "d743d4b7cc6c",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "d743d4b7cc6c",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "e5c6d121469e",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "e5c6d121469e",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "13b9cadf7331",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "13b9cadf7331",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "604f24e329b9",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "604f24e329b9",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "5cbc72f71d0d",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "ce86163243ac",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "ce86163243ac",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "f23852fca95e",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "f23852fca95e",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "50b5e52d5ef9",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "efabe79b7050",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "efabe79b7050",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "cfbf1b58a8cb",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "cfbf1b58a8cb",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "eaa72803bac2",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "eaa72803bac2",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "4d3979b0bfe1",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "4d3979b0bfe1",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "5bb2f4d8f4a5",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "5bb2f4d8f4a5",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "71a809c280a6",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "71a809c280a6",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "4824ab998349",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "4824ab998349",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "ed82858e6d5a",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "ed82858e6d5a",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "24d620821ab2",
+      "model": "gpt-5",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    },
+    {
+      "category": 3,
+      "question_id": "24d620821ab2",
+      "model": "gpt-5-mini",
+      "finish_reason": "length",
+      "completion_tokens": 1500
+    }
+  ]
+}

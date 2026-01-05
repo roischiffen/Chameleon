@@ -1,0 +1,687 @@
+{
+  "summary": {
+    "total_unique_flagged": 68,
+    "only_baseline": 3,
+    "multiple_miu": 13,
+    "all_miu": 52
+  },
+  "only_baseline_affected": [
+    {
+      "category": 2,
+      "question_id": "73dbbd0fa393",
+      "affected_models": {
+        "gpt-5": [
+          0.0,
+          0.2,
+          0.5,
+          0.7,
+          0.9
+        ]
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "95930bcd8794",
+      "affected_models": {
+        "gpt-5": [
+          0.0,
+          0.2,
+          0.5,
+          0.7,
+          0.9
+        ]
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "b75fd08116b0",
+      "affected_models": {
+        "gpt-5": [
+          0.0,
+          0.2,
+          0.5,
+          0.7,
+          0.9
+        ],
+        "gpt-5-mini": [
+          0.0,
+          0.2,
+          0.5,
+          0.7,
+          0.9
+        ]
+      }
+    }
+  ],
+  "multiple_miu_affected": [
+    {
+      "category": 2,
+      "question_id": "13124d8a98a9",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.2,
+            0.5
+          ],
+          "count": 3
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.0
+          ],
+          "count": 1
+        }
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "17b1ae2ddb6c",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.9
+          ],
+          "count": 2
+        }
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "60d03456ebad",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.2,
+            0.5,
+            0.9
+          ],
+          "count": 4
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.5
+          ],
+          "count": 1
+        }
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "d7197019328f",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.7
+          ],
+          "count": 2
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.0,
+            0.9
+          ],
+          "count": 2
+        }
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "f18d6c3b74ab",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.7
+          ],
+          "count": 2
+        }
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "fe4b39036bf2",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.2,
+            0.5,
+            0.9
+          ],
+          "count": 4
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.5
+          ],
+          "count": 1
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "24d620821ab2",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.5,
+            0.7,
+            0.9
+          ],
+          "count": 4
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.0,
+            0.9
+          ],
+          "count": 2
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "3a4633d74ea8",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.2,
+            0.5,
+            0.7
+          ],
+          "count": 4
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "3c961e4a0f9e",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.7,
+            0.9
+          ],
+          "count": 3
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.0,
+            0.2
+          ],
+          "count": 2
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "50b5e52d5ef9",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.5
+          ],
+          "count": 2
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.9
+          ],
+          "count": 1
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "55a29aec71d0",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.5,
+            0.9
+          ],
+          "count": 3
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "5cbc72f71d0d",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.2,
+            0.5,
+            0.7
+          ],
+          "count": 4
+        }
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "a3b11140e09d",
+      "affected_models": {
+        "gpt-5": {
+          "affected_levels": [
+            0.0,
+            0.5,
+            0.9
+          ],
+          "count": 3
+        },
+        "gpt-5-mini": {
+          "affected_levels": [
+            0.0,
+            0.2,
+            0.5,
+            0.9
+          ],
+          "count": 4
+        }
+      }
+    }
+  ],
+  "all_miu_affected": [
+    {
+      "category": 1,
+      "question_id": "30d7c035cc06",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 1,
+      "question_id": "81cdc5c39160",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 1,
+      "question_id": "ac9ffea90714",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 1,
+      "question_id": "de1d447aae47",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "08d056f253ac",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "10a65b3d22a1",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "28fd76942fc5",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "3b2f040019bf",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "459b83dc6f9a",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "64d595ba9a32",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "7dd2b07fb6a5",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "7f48eb40717d",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "a2d63f367cf2",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "acb60607be25",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "b81a8363fdb2",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 2,
+      "question_id": "cd377c1bdc59",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "03b44ec63051",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "13b9cadf7331",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "3e4c4a2d6e6d",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "419edd237873",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "4824ab998349",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "4921aea8656b",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "4d3979b0bfe1",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "5062ff35ca15",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "5bb2f4d8f4a5",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "604f24e329b9",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "62bef35d1cf4",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "69a9bffc4e5a",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "6ccc4ceb2bb8",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "71a809c280a6",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "78a825a6aab4",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "799fa1d82162",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "7f9f9f3f01c2",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "8555d30d849f",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "86f4110d6a69",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "a61228a81a75",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "a72f50499200",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "acbd00e46024",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "bf1a94972a8b",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "c46a620111e1",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "c816937ea674",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "ce86163243ac",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "cfbf1b58a8cb",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "d359970345e4",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "d37d3b0925a4",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "d743d4b7cc6c",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "e5c6d121469e",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "eaa72803bac2",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "ed82858e6d5a",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "efabe79b7050",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "f23852fca95e",
+      "affected_models": {
+        "gpt-5": "all_5_levels",
+        "gpt-5-mini": "all_5_levels"
+      }
+    },
+    {
+      "category": 3,
+      "question_id": "f3c7404f0a13",
+      "affected_models": {
+        "gpt-5": "all_5_levels"
+      }
+    }
+  ]
+}
